@@ -1,0 +1,3789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: obs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-09 16:26+0530\n"
+"PO-Revision-Date: 2012-02-09 16:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ../../../../\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: views/register.php:23
+msgid "are you"
+msgstr ""
+
+#: views/register.php:23
+msgid "no"
+msgstr ""
+
+#: views/register.php:23
+msgid "owner of a small or wholesale business you will not access the secure section. Do you have a question, comment or are you interested in a collaboration? can you let us know through our"
+msgstr ""
+
+#: views/register.php:23
+msgid "contact"
+msgstr ""
+
+#: views/register.php:48
+msgid "company Name"
+msgstr ""
+
+#: views/register.php:52
+msgid "Sector"
+msgstr ""
+
+#: views/register.php:54
+#: views/register.php:112
+#: views/cp/categories.php:60
+msgid "Select"
+msgstr ""
+
+#: views/register.php:69
+msgid "Your first name"
+msgstr ""
+
+#: views/register.php:73
+msgid "your surname"
+msgstr ""
+
+#: views/register.php:77
+msgid "Email"
+msgstr ""
+
+#: views/register.php:98
+msgid "Address"
+msgstr ""
+
+#: views/register.php:102
+msgid "Postcode"
+msgstr ""
+
+#: views/register.php:106
+#: views/cp/areadetails_addedit.php:36
+msgid "City"
+msgstr ""
+
+#: views/register.php:110
+msgid "Country"
+msgstr ""
+
+#: views/register.php:131
+msgid "Choose a username"
+msgstr ""
+
+#: views/register.php:135
+msgid "Choose a password"
+msgstr ""
+
+#: views/register.php:139
+msgid "confirm password"
+msgstr ""
+
+#: views/register.php:152
+msgid "ADD"
+msgstr ""
+
+#: views/cp/areadetails_addedit.php:5
+msgid "Edit Region Details"
+msgstr ""
+
+#: views/cp/areadetails_addedit.php:6
+#: views/cp/categories.php:5
+#: views/cp/categories_addedit.php:7
+msgid "Home"
+msgstr ""
+
+#: views/cp/areadetails_addedit.php:6
+msgid "Settings"
+msgstr ""
+
+#: views/cp/areadetails_addedit.php:6
+msgid "Add  Area Details"
+msgstr ""
+
+#: views/cp/areadetails_addedit.php:22
+msgid "Region"
+msgstr ""
+
+#: views/cp/areadetails_addedit.php:24
+msgid "--select--"
+msgstr ""
+
+#: views/cp/areadetails_addedit.php:30
+msgid "no delivery area available"
+msgstr ""
+
+#: views/cp/areadetails_addedit.php:40
+msgid "Postal Code"
+msgstr ""
+
+#: views/cp/areadetails_addedit.php:45
+msgid "Expense"
+msgstr ""
+
+#: views/cp/areadetails_addedit.php:49
+msgid "Time Range"
+msgstr ""
+
+#: views/cp/areadetails_addedit.php:51
+msgid "Enter time in format 00:00:00 Eg: 23:12:00"
+msgstr ""
+
+#: views/cp/categories.php:4
+msgid "Manage Categories"
+msgstr ""
+
+#: views/cp/categories.php:5
+#: views/cp/categories_addedit.php:7
+msgid "Categories"
+msgstr ""
+
+#: views/cp/categories.php:7
+msgid "Category Order Updated Successfully"
+msgstr ""
+
+#: views/cp/categories.php:8
+msgid "Error occurred while updating order"
+msgstr ""
+
+#: views/cp/categories.php:9
+msgid "Status successfully updated"
+msgstr ""
+
+#: views/cp/categories.php:10
+msgid "Error occurred while updating status"
+msgstr ""
+
+#: views/cp/categories.php:11
+msgid "Tooltip setting successfully saved"
+msgstr ""
+
+#: views/cp/categories.php:12
+msgid "Problem while storing the Tooltip setting"
+msgstr ""
+
+#: views/cp/categories.php:33
+msgid "Category Data"
+msgstr ""
+
+#: views/cp/categories.php:38
+msgid "** You can choose in which order the categories are shown on the website. Number 1 is very high on the list."
+msgstr ""
+
+#: views/cp/categories.php:41
+msgid "Add Category"
+msgstr ""
+
+#: views/cp/categories.php:45
+msgid "Order"
+msgstr ""
+
+#: views/cp/categories.php:46
+msgid "Category"
+msgstr ""
+
+#: views/cp/categories.php:47
+#: views/cp/categories_addedit.php:27
+msgid "Description"
+msgstr ""
+
+#: views/cp/categories.php:48
+msgid "Select Service"
+msgstr ""
+
+#: views/cp/categories.php:49
+msgid "Display Tooltip"
+msgstr ""
+
+#: views/cp/categories.php:50
+msgid "Status"
+msgstr ""
+
+#: views/cp/categories.php:51
+msgid "Action"
+msgstr ""
+
+#: views/cp/categories.php:69
+msgid "Both"
+msgstr ""
+
+#: views/cp/categories.php:70
+msgid "Pick"
+msgstr ""
+
+#: views/cp/categories.php:71
+msgid "Deliver"
+msgstr ""
+
+#: views/cp/categories.php:83
+#: views/cp/categories.php:84
+msgid "Show"
+msgstr ""
+
+#: views/cp/categories.php:85
+#: views/cp/categories.php:86
+msgid "Hide"
+msgstr ""
+
+#: views/cp/categories.php:96
+msgid "There is no category available."
+msgstr ""
+
+#: views/cp/categories_addedit.php:6
+msgid "UPDATE CATEGORY"
+msgstr ""
+
+#: views/cp/categories_addedit.php:6
+msgid "ADD CATEGORY"
+msgstr ""
+
+#: views/cp/categories_addedit.php:7
+msgid "update category"
+msgstr ""
+
+#: views/cp/categories_addedit.php:7
+msgid "add category"
+msgstr ""
+
+#: views/cp/categories_addedit.php:9
+msgid "category already exist"
+msgstr ""
+
+#: views/cp/categories_addedit.php:13
+msgid "Information"
+msgstr ""
+
+#: views/cp/categories_addedit.php:23
+msgid "Category Name"
+msgstr ""
+
+#: views/cp/categories_addedit.php:31
+msgid "Popup"
+msgstr ""
+
+#: views/cp/categories_addedit.php:33
+msgid "If you check this box, your customers will see this description when the mouse cursor over a link to category (there is a popup appeared."
+msgstr ""
+
+#: views/cp/categories_addedit.php:36
+msgid "Add Text"
+msgstr ""
+
+#: views/cp/categories_addedit.php:38
+msgid "If your customers have clicked on a category you can on this page a message at the top. This is a promotional text related to this category. The message below may place."
+msgstr ""
+
+#: views/cp/categories_addedit.php:41
+msgid "Message"
+msgstr ""
+
+#: views/cp/categories_addedit.php:62
+msgid "Enter the name"
+msgstr ""
+
+#: views/cp/categories_addedit.php:63
+msgid "Please give a description please"
+msgstr ""
+
+#: views/cp/categories_addedit.php:84
+msgid "Please leave a message please give"
+msgstr ""
+
+#: views/cp/cdashboard.php:72
+msgid "Updated: sections design Updated Successfully"
+msgstr ""
+
+#: views/cp/cdashboard.php:137
+msgid "order has been deleted successfully"
+msgstr ""
+
+#: views/cp/cdashboard.php:139
+msgid "error in deletion of order!please try it again"
+msgstr ""
+
+#: views/cp/cdashboard.php:404
+msgid "details has been updated successfully"
+msgstr ""
+
+#: views/cp/cdashboard.php:408
+msgid "some error occured in updating order"
+msgstr ""
+
+#: views/cp/cdashboard.php:412
+msgid "some error occured while updation order details"
+msgstr ""
+
+#: views/cp/cdashboard.php:585
+#: views/cp/cdashboard.php:593
+msgid "pickup date :"
+msgstr ""
+
+#: views/cp/cdashboard.php:586
+#: views/cp/cdashboard.php:595
+msgid "pickup time :"
+msgstr ""
+
+#: views/cp/cdashboard.php:587
+#: views/cp/cdashboard.php:596
+#: views/cp/cdashboard.php:607
+msgid "comment :"
+msgstr ""
+
+#: views/cp/cdashboard.php:594
+msgid "pickup day :"
+msgstr ""
+
+#: views/cp/cdashboard.php:602
+msgid "delivery date :"
+msgstr ""
+
+#: views/cp/cdashboard.php:603
+msgid "delivery day :"
+msgstr ""
+
+#: views/cp/cdashboard.php:604
+msgid "delivery address :"
+msgstr ""
+
+#: views/cp/cdashboard.php:605
+msgid "area name :"
+msgstr ""
+
+#: views/cp/cdashboard.php:606
+msgid "delivery time :"
+msgstr ""
+
+#: views/cp/cdashboard.php:696
+#: views/cp/order_details.php:47
+#: views/cp/order_details_edit.php:730
+msgid "Extra Discount"
+msgstr ""
+
+#: views/cp/cdashboard.php:764
+msgid "couldn't parse the mail template"
+msgstr ""
+
+#: views/cp/cdashboard.php:933
+msgid "New Category added successfully"
+msgstr ""
+
+#: views/cp/cdashboard.php:939
+msgid "Sorry ! Some error occured."
+msgstr ""
+
+#: views/cp/cdashboard.php:949
+msgid "Updated: Category Updated Successfully"
+msgstr ""
+
+#: views/cp/cdashboard.php:1512
+msgid "New Subcategory added successfully."
+msgstr ""
+
+#: views/cp/cdashboard.php:1520
+msgid "Subcategory updated successfully."
+msgstr ""
+
+#: views/cp/changepassword.php:4
+#: views/cp/changepassword.php:5
+#: views/cp/header.php:364
+msgid "Change Password"
+msgstr ""
+
+#: views/cp/changepassword.php:10
+#: views/cp/header.php:337
+msgid "Profile"
+msgstr ""
+
+#: views/cp/changepassword.php:15
+msgid "Current Password"
+msgstr ""
+
+#: views/cp/changepassword.php:19
+msgid "New Password"
+msgstr ""
+
+#: views/cp/changepassword.php:23
+msgid "Confirm Password"
+msgstr ""
+
+#: views/cp/changepassword.php:31
+msgid "Enter the current password please"
+msgstr ""
+
+#: views/cp/changepassword.php:32
+msgid "Enter your new password"
+msgstr ""
+
+#: views/cp/changepassword.php:33
+msgid "Please confirm your new password"
+msgstr ""
+
+#: views/cp/change_design.php:17
+msgid "Change the Design"
+msgstr ""
+
+#: views/cp/change_design.php:42
+msgid "Login Section"
+msgstr ""
+
+#: views/cp/change_design.php:49
+#: views/cp/change_design.php:140
+#: views/cp/change_design.php:229
+msgid "Background"
+msgstr ""
+
+#: views/cp/change_design.php:54
+#: views/cp/change_design.php:145
+#: views/cp/change_design.php:234
+msgid "Color"
+msgstr ""
+
+#: views/cp/change_design.php:58
+#: views/cp/change_design.php:149
+#: views/cp/change_design.php:238
+msgid "width"
+msgstr ""
+
+#: views/cp/change_design.php:62
+#: views/cp/change_design.php:153
+#: views/cp/change_design.php:242
+msgid "Font-family"
+msgstr ""
+
+#: views/cp/change_design.php:64
+#: views/cp/change_design.php:78
+#: views/cp/change_design.php:91
+#: views/cp/change_design.php:103
+#: views/cp/change_design.php:115
+#: views/cp/change_design.php:155
+#: views/cp/change_design.php:169
+#: views/cp/change_design.php:181
+#: views/cp/change_design.php:194
+#: views/cp/change_design.php:206
+#: views/cp/change_design.php:244
+#: views/cp/change_design.php:257
+#: views/cp/change_design.php:270
+#: views/cp/change_design.php:283
+#: views/cp/change_design.php:295
+#: views/cp/order_details_edit.php:595
+#: views/cp/order_details_edit.php:705
+msgid "select"
+msgstr ""
+
+#: views/cp/change_design.php:65
+#: views/cp/change_design.php:156
+#: views/cp/change_design.php:245
+msgid "arial"
+msgstr ""
+
+#: views/cp/change_design.php:66
+#: views/cp/change_design.php:157
+#: views/cp/change_design.php:246
+msgid "new times roman"
+msgstr ""
+
+#: views/cp/change_design.php:67
+#: views/cp/change_design.php:158
+#: views/cp/change_design.php:247
+msgid "comic sence"
+msgstr ""
+
+#: views/cp/change_design.php:68
+#: views/cp/change_design.php:159
+#: views/cp/change_design.php:248
+msgid "wingdings"
+msgstr ""
+
+#: views/cp/change_design.php:76
+#: views/cp/change_design.php:167
+#: views/cp/change_design.php:254
+msgid "Font-size"
+msgstr ""
+
+#: views/cp/change_design.php:79
+#: views/cp/change_design.php:170
+#: views/cp/change_design.php:258
+msgid "10"
+msgstr ""
+
+#: views/cp/change_design.php:80
+#: views/cp/change_design.php:171
+#: views/cp/change_design.php:259
+msgid "20"
+msgstr ""
+
+#: views/cp/change_design.php:81
+#: views/cp/change_design.php:172
+#: views/cp/change_design.php:260
+msgid "25"
+msgstr ""
+
+#: views/cp/change_design.php:82
+#: views/cp/change_design.php:173
+#: views/cp/change_design.php:261
+msgid "30"
+msgstr ""
+
+#: views/cp/change_design.php:89
+#: views/cp/change_design.php:179
+#: views/cp/change_design.php:267
+msgid "Font-style"
+msgstr ""
+
+#: views/cp/change_design.php:92
+#: views/cp/change_design.php:104
+#: views/cp/change_design.php:182
+#: views/cp/change_design.php:195
+#: views/cp/change_design.php:271
+#: views/cp/change_design.php:284
+msgid "bold"
+msgstr ""
+
+#: views/cp/change_design.php:93
+#: views/cp/change_design.php:183
+#: views/cp/change_design.php:272
+msgid "normal"
+msgstr ""
+
+#: views/cp/change_design.php:94
+#: views/cp/change_design.php:184
+#: views/cp/change_design.php:273
+msgid "italic"
+msgstr ""
+
+#: views/cp/change_design.php:95
+#: views/cp/change_design.php:185
+#: views/cp/change_design.php:274
+msgid "bold italic"
+msgstr ""
+
+#: views/cp/change_design.php:101
+#: views/cp/change_design.php:192
+#: views/cp/change_design.php:280
+msgid "Font-weight"
+msgstr ""
+
+#: views/cp/change_design.php:105
+#: views/cp/change_design.php:196
+#: views/cp/change_design.php:285
+msgid "bolder"
+msgstr ""
+
+#: views/cp/change_design.php:106
+#: views/cp/change_design.php:197
+#: views/cp/change_design.php:286
+msgid "lighter"
+msgstr ""
+
+#: views/cp/change_design.php:107
+#: views/cp/change_design.php:198
+#: views/cp/change_design.php:287
+msgid "inherit"
+msgstr ""
+
+#: views/cp/change_design.php:113
+#: views/cp/change_design.php:204
+#: views/cp/change_design.php:293
+msgid "Text Decoration"
+msgstr ""
+
+#: views/cp/change_design.php:116
+#: views/cp/change_design.php:207
+#: views/cp/change_design.php:296
+msgid "none"
+msgstr ""
+
+#: views/cp/change_design.php:117
+#: views/cp/change_design.php:208
+#: views/cp/change_design.php:297
+msgid "underline"
+msgstr ""
+
+#: views/cp/change_design.php:118
+#: views/cp/change_design.php:209
+#: views/cp/change_design.php:298
+msgid "overline"
+msgstr ""
+
+#: views/cp/change_design.php:119
+#: views/cp/change_design.php:210
+#: views/cp/change_design.php:299
+msgid "blink"
+msgstr ""
+
+#: views/cp/change_design.php:133
+msgid "Shopping Cart"
+msgstr ""
+
+#: views/cp/change_design.php:222
+msgid "Main Section"
+msgstr ""
+
+#: views/cp/clients.php:113
+msgid "Client Management"
+msgstr ""
+
+#: views/cp/clients.php:127
+msgid "Client Mail"
+msgstr ""
+
+#: views/cp/clients.php:130
+msgid "Mail system"
+msgstr ""
+
+#: views/cp/clients.php:137
+msgid "Select a client"
+msgstr ""
+
+#: views/cp/clients.php:140
+msgid "-- Select --"
+msgstr ""
+
+#: views/cp/clients.php:146
+msgid "--NO CLIENT AVAILABLE--"
+msgstr ""
+
+#: views/cp/clients.php:152
+msgid "Subject"
+msgstr ""
+
+#: views/cp/clients.php:160
+msgid "To all customers email"
+msgstr ""
+
+#: views/cp/clients.php:174
+msgid "Please provide a topic please"
+msgstr ""
+
+#: views/cp/clients.php:185
+msgid "Please leave a message please give."
+msgstr ""
+
+#: views/cp/clients.php:189
+msgid "Please a customer or all customers please select"
+msgstr ""
+
+#: views/cp/clients.php:192
+msgid "Please select all OR 1 customer please."
+msgstr ""
+
+#: views/cp/clients.php:205
+msgid "Search Client"
+msgstr ""
+
+#: views/cp/clients.php:212
+#: views/cp/orders.php:354
+msgid "Search"
+msgstr ""
+
+#: views/cp/clients.php:214
+msgid "- - Select - -"
+msgstr ""
+
+#: views/cp/clients.php:215
+#: views/cp/clients.php:245
+#: views/cp/orders.php:245
+#: views/cp/orders.php:391
+msgid "Name"
+msgstr ""
+
+#: views/cp/clients.php:218
+msgid "Keyword"
+msgstr ""
+
+#: views/cp/clients.php:232
+msgid "Please enter a search item, the dropdown list"
+msgstr ""
+
+#: views/cp/clients.php:233
+msgid "Please provide a keyword please"
+msgstr ""
+
+#: views/cp/clients.php:238
+msgid "Account"
+msgstr ""
+
+#: views/cp/clients.php:244
+#: views/cp/orders.php:244
+msgid "Date"
+msgstr ""
+
+#: views/cp/clients.php:246
+msgid "E-mail"
+msgstr ""
+
+#: views/cp/clients.php:247
+msgid "Password"
+msgstr ""
+
+#: views/cp/clients.php:248
+#: views/cp/client_details.php:38
+msgid "House number"
+msgstr ""
+
+#: views/cp/clients.php:249
+msgid "Adress"
+msgstr ""
+
+#: views/cp/clients.php:251
+msgid "TelePhone"
+msgstr ""
+
+#: views/cp/client_details.php:4
+msgid "Customer Details"
+msgstr ""
+
+#: views/cp/client_details.php:5
+msgid "customers"
+msgstr ""
+
+#: views/cp/client_details.php:5
+msgid "customer details"
+msgstr ""
+
+#: views/cp/client_details.php:10
+msgid "My Account"
+msgstr ""
+
+#: views/cp/client_details.php:17
+msgid "Created Date"
+msgstr ""
+
+#: views/cp/client_details.php:22
+msgid "Created Time"
+msgstr ""
+
+#: views/cp/client_details.php:26
+msgid "First Name"
+msgstr ""
+
+#: views/cp/client_details.php:30
+msgid "Lasr Name"
+msgstr ""
+
+#: views/cp/client_details.php:34
+msgid "Business"
+msgstr ""
+
+#: views/cp/client_details.php:59
+msgid "Telephone"
+msgstr ""
+
+#: views/cp/client_details.php:63
+msgid "GSM"
+msgstr ""
+
+#: views/cp/client_details.php:67
+msgid "FAX"
+msgstr ""
+
+#: views/cp/footer.php:1
+#: views/cp/header.php:351
+#: views/cp/orders.php:325
+#: views/cp/orders.php:326
+#: views/cp/order_details_edit.php:168
+msgid "Orders"
+msgstr ""
+
+#: views/cp/footer.php:1
+msgid "Subcategory"
+msgstr ""
+
+#: views/cp/footer.php:1
+#: views/cp/header.php:358
+msgid "Products"
+msgstr ""
+
+#: views/cp/footer.php:1
+#: views/cp/intro.php:50
+msgid "Clients"
+msgstr ""
+
+#: views/cp/footer.php:1
+msgid "change password"
+msgstr ""
+
+#: views/cp/footer.php:1
+msgid "Copyright &copy; 2010."
+msgstr ""
+
+#: views/cp/header.php:4
+msgid "Admin Panel"
+msgstr ""
+
+#: views/cp/header.php:191
+msgid "Category service updated successfully."
+msgstr ""
+
+#: views/cp/header.php:194
+msgid "Some error occurred ! Please try again."
+msgstr ""
+
+#: views/cp/header.php:200
+msgid "Are you sure you want to delete this ?"
+msgstr ""
+
+#: views/cp/header.php:333
+msgid "Logged in as"
+msgstr ""
+
+#: views/cp/header.php:335
+msgid "OBS website"
+msgstr ""
+
+#: views/cp/header.php:336
+msgid "FAQ"
+msgstr ""
+
+#: views/cp/header.php:338
+msgid "Logout"
+msgstr ""
+
+#: views/cp/header.php:349
+#: views/cp/intro.php:16
+msgid "intro"
+msgstr ""
+
+#: views/cp/header.php:349
+#: views/cp/intro.php:14
+msgid "Intro"
+msgstr ""
+
+#: views/cp/header.php:356
+msgid "Subcategories"
+msgstr ""
+
+#: views/cp/header.php:360
+msgid "Customers"
+msgstr ""
+
+#: views/cp/header.php:366
+msgid "Change the design"
+msgstr ""
+
+#: views/cp/header.php:366
+msgid "Change Design"
+msgstr ""
+
+#: views/cp/header.php:372
+msgid "You are using an older version of IE. Please check your browser first to upgrade to IE8"
+msgstr ""
+
+#: views/cp/intro.php:26
+msgid "Why OBS"
+msgstr ""
+
+#: views/cp/intro.php:27
+msgid "Setup Cost"
+msgstr ""
+
+#: views/cp/intro.php:28
+msgid "Subscription"
+msgstr ""
+
+#: views/cp/intro.php:29
+msgid "Method"
+msgstr ""
+
+#: views/cp/intro.php:30
+msgid "Demo"
+msgstr ""
+
+#: views/cp/intro.php:35
+msgid "Why opt for OBS"
+msgstr ""
+
+#: views/cp/intro.php:39
+msgid "it is a"
+msgstr ""
+
+#: views/cp/intro.php:39
+msgid "unique concept"
+msgstr ""
+
+#: views/cp/intro.php:39
+msgid "We are the only company with an extensive online ordering companies that wish."
+msgstr ""
+
+#: views/cp/intro.php:40
+msgid "no installation"
+msgstr ""
+
+#: views/cp/intro.php:40
+msgid "It should not be installed. Only a single configuration is required on our part to take advantage of the system"
+msgstr ""
+
+#: views/cp/intro.php:41
+msgid "In 3 simple clicks"
+msgstr ""
+
+#: views/cp/intro.php:41
+msgid "Proceed one order and keep the client up to date on the status of the order by the automated emails that are sent."
+msgstr ""
+
+#: views/cp/intro.php:42
+msgid "online access"
+msgstr ""
+
+#: views/cp/intro.php:42
+msgid "You can be anywhere in the world log into your control panel and this 24/24 7 / 7."
+msgstr ""
+
+#: views/cp/intro.php:43
+msgid "More Income"
+msgstr ""
+
+#: views/cp/intro.php:43
+msgid "customers familiar with this system will make ordering faster because they will experience many benefits (own control panel with profile / history / click-n-go / ..., no waiting, make 24h/24 orders, customer knows exactly what the cost, ...)"
+msgstr ""
+
+#: views/cp/intro.php:44
+msgid "Low cost "
+msgstr ""
+
+#: views/cp/intro.php:44
+msgid " not pay the 1000 euros for a system that is less than half the possibilities. We charge no commission to (not now, nor in the future)."
+msgstr ""
+
+#: views/cp/intro.php:45
+msgid "No update costs"
+msgstr ""
+
+#: views/cp/intro.php:45
+msgid "Never install any updates. Do you already have experience with online stores, you will have noticed that after some time (expensive) to install updates or patches to the system up-to-date ... not in OBS"
+msgstr ""
+
+#: views/cp/intro.php:46
+msgid "No new website"
+msgstr ""
+
+#: views/cp/intro.php:46
+msgid "You do not have to renew your current website. The order module fits into virtually any design (!)"
+msgstr ""
+
+#: views/cp/intro.php:47
+msgid "Unlimited number of orders"
+msgstr ""
+
+#: views/cp/intro.php:47
+msgid "You pay NO commission (unique)"
+msgstr ""
+
+#: views/cp/intro.php:48
+msgid "Unlimited Products / Categories"
+msgstr ""
+
+#: views/cp/intro.php:48
+msgid "Adding products without worries"
+msgstr ""
+
+#: views/cp/intro.php:49
+msgid "Quick and easy adjustments"
+msgstr ""
+
+#: views/cp/intro.php:49
+msgid "(rates, categories, products, etc. ..)"
+msgstr ""
+
+#: views/cp/intro.php:50
+msgid "You automatically collects data from your customers ... leave a scheduled or a promotion? No problem: with a click of a button you can now keep your customers up-to-date!"
+msgstr ""
+
+#: views/cp/intro.php:51
+msgid "More Time"
+msgstr ""
+
+#: views/cp/intro.php:51
+msgid "by using this system to work spend less time managing orders via email or telephone intake."
+msgstr ""
+
+#: views/cp/intro.php:52
+msgid "Database with photos"
+msgstr ""
+
+#: views/cp/intro.php:52
+msgid "you can use for your product (in development)"
+msgstr ""
+
+#: views/cp/intro.php:53
+msgid "Mobile "
+msgstr ""
+
+#: views/cp/intro.php:53
+msgid "Let your customers make orders via the iPhone or smartphone (coming soon - of course without additional cost)"
+msgstr ""
+
+#: views/cp/intro.php:54
+msgid "FREE 3 MONTH testing "
+msgstr ""
+
+#: views/cp/intro.php:54
+msgid "outside the setup fee, you pay no monthly subscription for 3 months. You have no obligation to buy afterwards."
+msgstr ""
+
+#: views/cp/intro.php:55
+msgid "Our well-known support "
+msgstr ""
+
+#: views/cp/intro.php:55
+msgid "( 7d / 7). In an emergency you can also reach us on Sunday!"
+msgstr ""
+
+#: views/cp/intro.php:56
+msgid "See our strengths in"
+msgstr ""
+
+#: views/cp/intro.php:56
+msgid "www.SiteMatic.be"
+msgstr ""
+
+#: views/cp/intro.php:67
+msgid "What is the setup cost"
+msgstr ""
+
+#: views/cp/intro.php:68
+msgid "Setup cost is a one-time cost. You can choose from three different packages:"
+msgstr ""
+
+#: views/cp/intro.php:76
+#: views/cp/intro.php:170
+msgid "VAT"
+msgstr ""
+
+#: views/cp/intro.php:80
+#: views/cp/intro.php:101
+msgid "no package available"
+msgstr ""
+
+#: views/cp/intro.php:95
+msgid "Select Package:"
+msgstr ""
+
+#: views/cp/intro.php:107
+msgid "I agree with the"
+msgstr ""
+
+#: views/cp/intro.php:107
+msgid "terms of use"
+msgstr ""
+
+#: views/cp/intro.php:123
+msgid "Please choose a package"
+msgstr ""
+
+#: views/cp/intro.php:124
+msgid "Please agree to the terms of use"
+msgstr ""
+
+#: views/cp/intro.php:148
+msgid "NO package available"
+msgstr ""
+
+#: views/cp/intro.php:157
+msgid "Save money by configuring the system yourself! With this package we"
+msgstr ""
+
+#: views/cp/intro.php:157
+msgid ""
+"\n"
+"                 assume that the categories and products yourself inserted into the system"
+msgstr ""
+
+#: views/cp/intro.php:158
+msgid "(including images, descriptions, rates, etc. ..)."
+msgstr ""
+
+#: views/cp/intro.php:160
+msgid "This package includes:"
+msgstr ""
+
+#: views/cp/intro.php:163
+msgid "Activation of your account"
+msgstr ""
+
+#: views/cp/intro.php:164
+msgid "We apply the color / style according to the look n feel of your website"
+msgstr ""
+
+#: views/cp/intro.php:165
+msgid "If you wish, we can test (including code) on your server. This page provides a preview of how the shop eventually"
+msgstr ""
+
+#: views/cp/intro.php:165
+msgid "will look like (without having your customers see this). After all adjustments have been made (institutions, categories and products added, etc..) "
+msgstr ""
+
+#: views/cp/intro.php:165
+msgid " We can implement the code in the existing site"
+msgstr ""
+
+#: views/cp/intro.php:170
+msgid "One time fee:"
+msgstr ""
+
+#: views/cp/intro.php:186
+msgid "monthly subscription"
+msgstr ""
+
+#: views/cp/intro.php:188
+msgid "Of course we also know that the first month orders will probably not get in because your customers are not familiar with the system. Why you get beyond the setup cost"
+msgstr ""
+
+#: views/cp/intro.php:188
+msgid "FIRST 3 MONTHS FREE"
+msgstr ""
+
+#: views/cp/intro.php:188
+msgid "(no subscription fee ).... you heard it right ... 3 MONTHS long the system free trial without obligation to purchase afterwards (!)."
+msgstr ""
+
+#: views/cp/intro.php:189
+msgid "These 3 MONTHS will only start after the shop is online"
+msgstr ""
+
+#: views/cp/intro.php:192
+msgid "What does the monthly subscription after the evaluation period?"
+msgstr ""
+
+#: views/cp/intro.php:196
+msgid "Unlimited number of orders "
+msgstr ""
+
+#: views/cp/intro.php:196
+msgid "(no commission!)"
+msgstr ""
+
+#: views/cp/intro.php:197
+msgid "Unlimited number of categories and products"
+msgstr ""
+
+#: views/cp/intro.php:198
+msgid "Free updates / bug fixes to the system"
+msgstr ""
+
+#: views/cp/intro.php:199
+msgid "Free upgrades (new features)"
+msgstr ""
+
+#: views/cp/intro.php:200
+msgid "Hosting and maintenance of the system"
+msgstr ""
+
+#: views/cp/intro.php:201
+msgid "Daily backup of database"
+msgstr ""
+
+#: views/cp/intro.php:202
+#, php-format
+msgid "99.9% uptime rating"
+msgstr ""
+
+#: views/cp/intro.php:203
+msgid "Support 7 / 7 even on Sundays (!)"
+msgstr ""
+
+#: views/cp/intro.php:206
+msgid "Rate"
+msgstr ""
+
+#: views/cp/intro.php:206
+msgid "month (excluding VAT)"
+msgstr ""
+
+#: views/cp/intro.php:209
+msgid "These 3 MONTHS will only start after the shop is online: This is, after adding the products, categories, ... It has been assumed that up within one month everything was configured and tested."
+msgstr ""
+
+#: views/cp/intro.php:211
+msgid "If you are satisfied with the system you can also opt for a 5-year contract from &euro; 1500"
+msgstr ""
+
+#: views/cp/intro.php:212
+msgid "equivalent to &euro; 25 / month). It need you to pay once per 5 years."
+msgstr ""
+
+#: views/cp/intro.php:231
+msgid "How do we work:"
+msgstr ""
+
+#: views/cp/intro.php:235
+msgid "SETUP-PACKAGE:"
+msgstr ""
+
+#: views/cp/intro.php:235
+msgid "Choose a setup package and click BUY (go to menu"
+msgstr ""
+
+#: views/cp/intro.php:235
+msgid "setup cost"
+msgstr ""
+
+#: views/cp/intro.php:235
+msgid "). We will send you immediately after requesting the setup package an email with further instructions (including a fact-hour). In this mail you will also see a link to your personal Control Panel."
+msgstr ""
+
+#: views/cp/intro.php:238
+msgid "TEST PHASE"
+msgstr ""
+
+#: views/cp/intro.php:239
+msgid "After the amount in our account, we will activate your account and the codes you need for your web site (available at"
+msgstr ""
+
+#: views/cp/intro.php:239
+msgid "Profie"
+msgstr ""
+
+#: views/cp/intro.php:239
+msgid ") Are also employed. To the shop to test, we recommend placing the codes in a test page with the same layout as the other web pages. Not sure how to do this? No problem: we can do this for free or you may leave this to your web designer. This test is for us to get the colors / layout to determine that everything is beautiful in hand and to your heart's content without testing the system your visitors are noticing."
+msgstr ""
+
+#: views/cp/intro.php:242
+msgid "CONFIGURATION"
+msgstr ""
+
+#: views/cp/intro.php:243
+msgid "We configure the system is fully customizable and depending on the setup package you have chosen, we perform further adjustments."
+msgstr ""
+
+#: views/cp/intro.php:243
+msgid "We will also design business cards and on approval deliver it to the address (including stickers)."
+msgstr ""
+
+#: views/cp/intro.php:246
+msgid "ASSISTANCE"
+msgstr ""
+
+#: views/cp/intro.php:247
+msgid "We always try to approach our clients personally drop by and through the system (and us) to imagine. This not always succeed (because of busy or too far away). ... but no worries. by"
+msgstr ""
+
+#: views/cp/intro.php:247
+msgid "Teamviewer"
+msgstr ""
+
+#: views/cp/intro.php:247
+msgid "We can continue in real time on a fast and secure way to help. We will assist you until you how the system has (!)"
+msgstr ""
+
+#: views/cp/intro.php:250
+msgid "INSTALLING THE STORE ONLINE"
+msgstr ""
+
+#: views/cp/intro.php:251
+msgid "At the time that everything was configured and set to become the perfect test page linked to the existing website (through you, through your web designer or us). From this moment your visitors make online orders. You can shop any time \"offline\" or \"online\" put through your Control Panel. In \"offline\", visitors have the shop but can not place orders."
+msgstr ""
+
+#: views/cp/intro.php:254
+msgid "3 MONTHS FREE"
+msgstr ""
+
+#: views/cp/intro.php:255
+msgid "From the moment the shop is online, you can free 3 MONTHS system testing and / or promotion."
+msgstr ""
+
+#: views/cp/intro.php:273
+msgid "You can shop and Control in action first."
+msgstr ""
+
+#: views/cp/intro.php:273
+msgid "You are free to make changes to the Control Panel as much as you want, but keep in mind that this DEMO is viewed by other traders."
+msgstr ""
+
+#: views/cp/intro.php:285
+msgid "DEMO store"
+msgstr ""
+
+#: views/cp/intro.php:286
+msgid "DEMO Control Panel"
+msgstr ""
+
+#: views/cp/intro.php:293
+msgid "VIDEO-TUTORIALS"
+msgstr ""
+
+#: views/cp/intro.php:297
+msgid "Intro Control panel (CP)"
+msgstr ""
+
+#: views/cp/intro.php:297
+msgid "This tutorial gives you a brief tour to introduce you to the system (5.50min)"
+msgstr ""
+
+#: views/cp/intro.php:301
+msgid "Ordered by the customer"
+msgstr ""
+
+#: views/cp/intro.php:302
+msgid "This is a brief tutorial on how the customer places an order (4.27min)"
+msgstr ""
+
+#: views/cp/intro.php:306
+msgid "Other tutorials will soon be published"
+msgstr ""
+
+#: views/cp/login_form.php:27
+msgid "Online Bestelsysteem"
+msgstr ""
+
+#: views/cp/login_form.php:28
+msgid "For the small-wholesale"
+msgstr ""
+
+#: views/cp/login_form.php:32
+msgid "Enter your username and password."
+msgstr ""
+
+#: views/cp/login_form.php:36
+msgid "Username:"
+msgstr ""
+
+#: views/cp/login_form.php:41
+msgid "Password:"
+msgstr ""
+
+#: views/cp/news.php:4
+msgid "Latest News"
+msgstr ""
+
+#: views/cp/news.php:5
+msgid "News"
+msgstr ""
+
+#: views/cp/orders.php:59
+msgid "Please select a record"
+msgstr ""
+
+#: views/cp/orders.php:65
+msgid "Do u really want to delete it"
+msgstr ""
+
+#: views/cp/orders.php:80
+msgid "Selected orders has been deleted successfully"
+msgstr ""
+
+#: views/cp/orders.php:83
+msgid "Some error occured"
+msgstr ""
+
+#: views/cp/orders.php:104
+msgid "Please select atleast one record"
+msgstr ""
+
+#: views/cp/orders.php:110
+msgid "Do you want to print all records"
+msgstr ""
+
+#: views/cp/orders.php:246
+msgid "Total"
+msgstr ""
+
+#: views/cp/orders.php:247
+msgid "Take Away"
+msgstr ""
+
+#: views/cp/orders.php:248
+msgid "Delivery"
+msgstr ""
+
+#: views/cp/orders.php:249
+msgid "Send"
+msgstr ""
+
+#: views/cp/orders.php:250
+msgid "Order Status"
+msgstr ""
+
+#: views/cp/orders.php:330
+msgid "Succeed"
+msgstr ""
+
+#: views/cp/orders.php:332
+msgid "Error"
+msgstr ""
+
+#: views/cp/orders.php:340
+msgid "Search Orders"
+msgstr ""
+
+#: views/cp/orders.php:345
+msgid "Display all orders between"
+msgstr ""
+
+#: views/cp/orders.php:355
+msgid "Reset"
+msgstr ""
+
+#: views/cp/orders.php:366
+msgid "Please enter start date"
+msgstr ""
+
+#: views/cp/orders.php:367
+msgid "Please enter end date"
+msgstr ""
+
+#: views/cp/orders.php:373
+msgid "Orders Information"
+msgstr ""
+
+#: views/cp/orders.php:431
+msgid "country"
+msgstr ""
+
+#: views/cp/order_details.php:10
+#: views/cp/order_details_edit.php:644
+msgid "PRODUCT"
+msgstr ""
+
+#: views/cp/order_details.php:11
+#: views/cp/order_details_edit.php:645
+msgid "AMOUNT"
+msgstr ""
+
+#: views/cp/order_details.php:14
+#: views/cp/order_details_edit.php:648
+msgid "RATE"
+msgstr ""
+
+#: views/cp/order_details.php:15
+#: views/cp/order_details_edit.php:649
+msgid "EXTRA"
+msgstr ""
+
+#: views/cp/order_details.php:19
+msgid "SUBTOTAL"
+msgstr ""
+
+#: views/cp/order_details.php:49
+msgid "remark"
+msgstr ""
+
+#: views/cp/order_details.php:49
+msgid "not available"
+msgstr ""
+
+#: views/cp/order_details.php:62
+msgid "ORDERTOTAL"
+msgstr ""
+
+#: views/cp/order_details.php:69
+#: views/cp/order_details_edit.php:820
+msgid "TOTAL"
+msgstr ""
+
+#: views/cp/order_details.php:77
+msgid "ORDER_ORDERDETAILS_TOTAL"
+msgstr ""
+
+#: views/cp/order_details_edit.php:67
+msgid "no products available"
+msgstr ""
+
+#: views/cp/order_details_edit.php:71
+msgid "did not get any category.please select a category"
+msgstr ""
+
+#: views/cp/order_details_edit.php:79
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: views/cp/order_details_edit.php:122
+msgid "Please use only numbers"
+msgstr ""
+
+#: views/cp/order_details_edit.php:165
+msgid "Edit Orders"
+msgstr ""
+
+#: views/cp/order_details_edit.php:169
+msgid "Orders edit"
+msgstr ""
+
+#: views/cp/order_details_edit.php:190
+msgid "Order Details"
+msgstr ""
+
+#: views/cp/order_details_edit.php:195
+msgid "ORDERS-NO"
+msgstr ""
+
+#: views/cp/order_details_edit.php:200
+msgid "ORDER-DATE"
+msgstr ""
+
+#: views/cp/order_details_edit.php:214
+msgid "Customer Address"
+msgstr ""
+
+#: views/cp/order_details_edit.php:237
+msgid "Telephone No."
+msgstr ""
+
+#: views/cp/order_details_edit.php:241
+#: views/cp/order_details_edit.php:242
+msgid "EMAIL"
+msgstr ""
+
+#: views/cp/order_details_edit.php:255
+#: views/cp/order_details_edit.php:418
+#: views/cp/order_details_edit.php:511
+#: views/cp/order_details_edit.php:747
+msgid "EDIT"
+msgstr ""
+
+#: views/cp/order_details_edit.php:258
+#: views/cp/order_details_edit.php:421
+#: views/cp/order_details_edit.php:514
+#: views/cp/order_details_edit.php:751
+msgid "CLOSE"
+msgstr ""
+
+#: views/cp/order_details_edit.php:267
+msgid "DELIEVRY-DATE"
+msgstr ""
+
+#: views/cp/order_details_edit.php:285
+msgid "DELIEVRY_ADDRESS"
+msgstr ""
+
+#: views/cp/order_details_edit.php:298
+msgid "DELIEVRY-DAY"
+msgstr ""
+
+#: views/cp/order_details_edit.php:313
+msgid "DELIEVRY-AREA"
+msgstr ""
+
+#: views/cp/order_details_edit.php:323
+msgid "No delivery area available"
+msgstr ""
+
+#: views/cp/order_details_edit.php:334
+msgid "DELIEVRY-CITY"
+msgstr ""
+
+#: views/cp/order_details_edit.php:342
+msgid "no city available"
+msgstr ""
+
+#: views/cp/order_details_edit.php:351
+msgid "DELIEVRY-ZIP"
+msgstr ""
+
+#: views/cp/order_details_edit.php:364
+msgid "DELIEVRY-HOUR"
+msgstr ""
+
+#: views/cp/order_details_edit.php:366
+#: views/cp/order_details_edit.php:368
+#: views/cp/order_details_edit.php:545
+msgid "HOURS"
+msgstr ""
+
+#: views/cp/order_details_edit.php:375
+msgid "DELIEVRY-MINUTE"
+msgstr ""
+
+#: views/cp/order_details_edit.php:378
+#: views/cp/order_details_edit.php:381
+msgid "MINS"
+msgstr ""
+
+#: views/cp/order_details_edit.php:390
+msgid "DELIEVRY_REMARKS"
+msgstr ""
+
+#: views/cp/order_details_edit.php:403
+#: views/cp/order_details_edit.php:497
+#: views/cp/order_details_edit.php:573
+msgid "SAVE"
+msgstr ""
+
+#: views/cp/order_details_edit.php:429
+msgid "PICK-DATE"
+msgstr ""
+
+#: views/cp/order_details_edit.php:452
+msgid "PICKDAY"
+msgstr ""
+
+#: views/cp/order_details_edit.php:470
+msgid "PICKTIME"
+msgstr ""
+
+#: views/cp/order_details_edit.php:473
+#: views/cp/order_details_edit.php:548
+msgid "HOUR"
+msgstr ""
+
+#: views/cp/order_details_edit.php:485
+#: views/cp/order_details_edit.php:560
+msgid "NOTE"
+msgstr ""
+
+#: views/cp/order_details_edit.php:522
+msgid "DATE"
+msgstr ""
+
+#: views/cp/order_details_edit.php:589
+msgid "CATEGORY"
+msgstr ""
+
+#: views/cp/order_details_edit.php:602
+msgid "no category available"
+msgstr ""
+
+#: views/cp/order_details_edit.php:607
+msgid "SUBCATEGORY"
+msgstr ""
+
+#: views/cp/order_details_edit.php:616
+msgid "Product"
+msgstr ""
+
+#: views/cp/order_details_edit.php:626
+msgid "Add"
+msgstr ""
+
+#: views/cp/order_details_edit.php:653
+msgid "SUB-TOTAL"
+msgstr ""
+
+#: views/cp/order_details_edit.php:662
+msgid "New"
+msgstr ""
+
+#: views/cp/order_details_edit.php:666
+msgid "Discount"
+msgstr ""
+
+#: views/cp/order_details_edit.php:733
+#: views/cp/order_details_edit.php:736
+msgid "Note"
+msgstr ""
+
+#: views/cp/order_details_edit.php:737
+msgid "Not available"
+msgstr ""
+
+#: views/cp/order_details_edit.php:750
+#: views/cp/order_details_edit.php:783
+msgid "UPDATED"
+msgstr ""
+
+#: views/cp/order_details_edit.php:755
+msgid "REMOVE"
+msgstr ""
+
+#: views/cp/order_details_edit.php:767
+msgid "STATUS"
+msgstr ""
+
+#: views/cp/order_details_edit.php:777
+msgid "is ready"
+msgstr ""
+
+#: views/cp/order_details_edit.php:778
+msgid "pending"
+msgstr ""
+
+#: views/cp/order_details_edit.php:792
+msgid "ORDER-TOTAL"
+msgstr ""
+
+#: views/cp/order_details_edit.php:809
+msgid "DELIVERY-TOTAL"
+msgstr ""
+
+#: views/cp/popup.php:14
+msgid "error occured "
+msgstr ""
+
+#: views/cp/popup.php:26
+msgid "error occured"
+msgstr ""
+
+#: views/cp/popup.php:35
+msgid "choose date options"
+msgstr ""
+
+#: views/cp/popup.php:39
+msgid "Closed"
+msgstr ""
+
+#: views/cp/popup.php:40
+msgid "Holiday"
+msgstr ""
+
+#: views/cp/print_order.php:14
+msgid "ORDERS_NO"
+msgstr ""
+
+#: views/cp/print_order.php:28
+msgid "customer Address"
+msgstr ""
+
+#: views/cp/print_order.php:43
+msgid "Telephone No"
+msgstr ""
+
+#: views/cp/print_order.php:60
+#: views/cp/print_order.php:260
+msgid "DELIEVRY_DATE"
+msgstr ""
+
+#: views/cp/print_order.php:70
+msgid "DELIEVRY_DAY"
+msgstr ""
+
+#: views/cp/print_order.php:72
+msgid "DELIEVRY_AREA"
+msgstr ""
+
+#: views/cp/print_order.php:76
+#: views/cp/print_order.php:276
+msgid "DELIEVRY_CITY"
+msgstr ""
+
+#: views/cp/print_order.php:78
+#: views/cp/print_order.php:278
+msgid "DELIEVRY_ZIP"
+msgstr ""
+
+#: views/cp/print_order.php:82
+#: views/cp/print_order.php:282
+msgid "DELIEVRY_HOUR"
+msgstr ""
+
+#: views/cp/print_order.php:84
+#: views/cp/print_order.php:284
+msgid "DELIEVRY_MINUTE"
+msgstr ""
+
+#: views/cp/print_order.php:88
+#: views/cp/print_order.php:288
+msgid "REMARKS"
+msgstr ""
+
+#: views/cp/print_order.php:97
+#: views/cp/print_order.php:297
+msgid "PICKDATE"
+msgstr ""
+
+#: views/cp/print_order.php:130
+msgid "ORDERS_HOURS"
+msgstr ""
+
+#: views/cp/print_order.php:183
+#: views/cp/print_order.php:184
+#: views/cp/print_order.php:380
+#: views/cp/print_order.php:382
+msgid "Comment"
+msgstr ""
+
+#: views/cp/print_order.php:184
+msgid "Not Available"
+msgstr ""
+
+#: views/cp/print_order.php:198
+msgid "DELIVERY_TOTAL"
+msgstr ""
+
+#: views/cp/print_order.php:218
+msgid "NO"
+msgstr ""
+
+#: views/cp/print_order.php:220
+msgid "ORDERDATE"
+msgstr ""
+
+#: views/cp/print_order.php:243
+msgid "telephone"
+msgstr ""
+
+#: views/cp/print_order.php:270
+msgid "ORDERS_DELIEVRY_DAY"
+msgstr ""
+
+#: views/cp/print_order.php:272
+msgid "ORDERS_DELIEVRY_AREA"
+msgstr ""
+
+#: views/cp/print_order.php:382
+msgid "No Comment"
+msgstr ""
+
+#: views/cp/print_order.php:391
+msgid "Order cost"
+msgstr ""
+
+#: views/cp/print_order.php:395
+msgid "Delivery cost"
+msgstr ""
+
+#: views/cp/products.php:14
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: views/cp/products.php:57
+#: views/cp/subcategories.php:17
+msgid "Status successfully updated."
+msgstr ""
+
+#: views/cp/products.php:62
+msgid "Product details"
+msgstr ""
+
+#: views/cp/products.php:68
+msgid "You can choose in which order the products are displayed on the website. Number 1 is placed on top."
+msgstr ""
+
+#: views/cp/products.php:71
+#: views/cp/products.php:73
+#: views/cp/products_addedit.php:96
+#: views/cp/subcategories.php:74
+#: views/cp/subcategories_addedit.php:91
+#: views/cp/subcategories_addedit.php:93
+msgid "Select Category"
+msgstr ""
+
+#: views/cp/products.php:80
+#: views/cp/products.php:83
+msgid "Select Subcategory"
+msgstr ""
+
+#: views/cp/products.php:87
+msgid "No Subcategory"
+msgstr ""
+
+#: views/cp/products.php:92
+msgid "Add Product "
+msgstr ""
+
+#: views/cp/products.php:99
+#: views/cp/products_addedit.php:126
+msgid "Product Name"
+msgstr ""
+
+#: views/cp/products.php:102
+msgid "Show Images"
+msgstr ""
+
+#: views/cp/products.php:111
+msgid "Product list is empty."
+msgstr ""
+
+#: views/cp/products_addedit.php:83
+msgid "UPDATE PRODUCT"
+msgstr ""
+
+#: views/cp/products_addedit.php:83
+msgid "ADD PRODUCT"
+msgstr ""
+
+#: views/cp/products_addedit.php:84
+msgid " Products"
+msgstr ""
+
+#: views/cp/products_addedit.php:84
+msgid "update product"
+msgstr ""
+
+#: views/cp/products_addedit.php:84
+msgid "add product"
+msgstr ""
+
+#: views/cp/products_addedit.php:88
+msgid "Product information "
+msgstr ""
+
+#: views/cp/products_addedit.php:98
+msgid "-- Select category --"
+msgstr ""
+
+#: views/cp/products_addedit.php:112
+msgid "Select subcategory"
+msgstr ""
+
+#: views/cp/products_addedit.php:114
+msgid "Select category"
+msgstr ""
+
+#: views/cp/products_addedit.php:134
+msgid "Image Upload"
+msgstr ""
+
+#: views/cp/products_addedit.php:139
+msgid "Current image"
+msgstr ""
+
+#: views/cp/products_addedit.php:140
+msgid "No product image available.Please upload one."
+msgstr ""
+
+#: views/cp/products_addedit.php:144
+msgid "Show images"
+msgstr ""
+
+#: views/cp/products_addedit.php:149
+msgid "content_type"
+msgstr ""
+
+#: views/cp/products_addedit.php:149
+msgid "check if product is purchased weight wise like 200grams"
+msgstr ""
+
+#: views/cp/products_addedit.php:157
+#: views/cp/products_addedit.php:299
+msgid "formaat 0.0000 (punt)"
+msgstr ""
+
+#: views/cp/products_addedit.php:161
+msgid "Group"
+msgstr ""
+
+#: views/cp/products_addedit.php:161
+msgid "This feature allows the customer to put together a product (eg cheese sandwich: small = &euro; -1.00 / +0.00 &euro; = medium / large &euro; = +1.00). The groups can be created via \"Settings\"."
+msgstr ""
+
+#: views/cp/products_addedit.php:178
+msgid "----select----"
+msgstr ""
+
+#: views/cp/products_addedit.php:181
+msgid "no groups available"
+msgstr ""
+
+#: views/cp/products_addedit.php:202
+msgid "formaat 0.0000 (punt) , <br> Rate to begin with - or + sign and 4 digits after the dot (eg: -42.4823 +42.4823 or)"
+msgstr ""
+
+#: views/cp/products_addedit.php:234
+msgid "No Groups Available"
+msgstr ""
+
+#: views/cp/products_addedit.php:251
+msgid "formaat 0.0000 (punt"
+msgstr ""
+
+#: views/cp/products_addedit.php:252
+msgid "Rate to begin with - or + sign and 4 digits after the dot (eg: -42.4823 +42.4823 or"
+msgstr ""
+
+#: views/cp/products_addedit.php:268
+msgid "Want a product put in paint or is this a new product you can be the customer know by placing an icon behind."
+msgstr ""
+
+#: views/cp/products_addedit.php:273
+msgid "DISCOUNT"
+msgstr ""
+
+#: views/cp/products_addedit.php:273
+msgid "You can also grant discounts per product. A \"general reduction\" when you give a particular product promotion is - \"a quantity discount\" is as follows: 1 apple = &euro; 1 / 2 apples = reduction of &euro; 0.20 = &euro; 0.80 / each ..."
+msgstr ""
+
+#: views/cp/products_addedit.php:284
+msgid "No Discount"
+msgstr ""
+
+#: views/cp/products_addedit.php:288
+msgid "Discount on Add"
+msgstr ""
+
+#: views/cp/products_addedit.php:292
+msgid "Discount on per purchase in add"
+msgstr ""
+
+#: views/cp/products_addedit.php:300
+msgid "Discount to begin with - symbol Ex: -12.8723"
+msgstr ""
+
+#: views/cp/products_addedit.php:300
+msgid "example: -10"
+msgstr ""
+
+#: views/cp/products_addedit.php:314
+#: views/cp/products_addedit.php:355
+msgid "Discount/Piece"
+msgstr ""
+
+#: views/cp/products_addedit.php:315
+#: views/cp/products_addedit.php:356
+msgid "Rate/piece"
+msgstr ""
+
+#: views/cp/products_addedit.php:335
+msgid "Add row"
+msgstr ""
+
+#: views/cp/products_addedit.php:335
+#: views/cp/products_addedit.php:375
+msgid "Delete Row"
+msgstr ""
+
+#: views/cp/products_addedit.php:375
+msgid "Add Row"
+msgstr ""
+
+#: views/cp/products_addedit.php:407
+msgid "Select a categoy"
+msgstr ""
+
+#: views/cp/products_addedit.php:408
+msgid "please give the product name"
+msgstr ""
+
+#: views/cp/products_addedit.php:409
+msgid "please give the description of product"
+msgstr ""
+
+#: views/cp/products_addedit.php:410
+msgid "please give the rate"
+msgstr ""
+
+#: views/cp/products_addedit.php:421
+msgid "Rate must have size 0.0000 (point)"
+msgstr ""
+
+#: views/cp/products_addedit.php:434
+msgid "In group size, the rate must have +0.0000 or -0.0000"
+msgstr ""
+
+#: views/cp/products_addedit.php:450
+msgid "Single digits at discount"
+msgstr ""
+
+#: views/cp/profile.php:12
+msgid "Proflie"
+msgstr ""
+
+#: views/cp/profile.php:26
+msgid "Codes for your website"
+msgstr ""
+
+#: views/cp/profile.php:30
+msgid "Iframe Login"
+msgstr ""
+
+#: views/cp/profile.php:37
+msgid "Webshop Iframe"
+msgstr ""
+
+#: views/cp/profile.php:44
+msgid "Main Iframe"
+msgstr ""
+
+#: views/cp/profile.php:52
+msgid "Company"
+msgstr ""
+
+#: views/cp/profile.php:59
+msgid "Company Name"
+msgstr ""
+
+#: views/cp/profile.php:64
+msgid "Company type"
+msgstr ""
+
+#: views/cp/profile.php:72
+msgid "No company type available"
+msgstr ""
+
+#: views/cp/profile.php:79
+msgid "first name"
+msgstr ""
+
+#: views/cp/profile.php:84
+msgid "Surname"
+msgstr ""
+
+#: views/cp/profile.php:94
+msgid "Phone No"
+msgstr ""
+
+#: views/cp/profile.php:104
+msgid "postal code"
+msgstr ""
+
+#: views/cp/profile.php:120
+msgid "NO COUNTRY AVAILABLE"
+msgstr ""
+
+#: views/cp/profile.php:126
+msgid "BTW"
+msgstr ""
+
+#: views/cp/profile.php:131
+msgid "Username"
+msgstr ""
+
+#: views/cp/profile.php:156
+msgid "Registration Date"
+msgstr ""
+
+#: views/cp/profile.php:162
+msgid "Expiration Date"
+msgstr ""
+
+#: views/cp/profile.php:173
+msgid "Please enter a company name "
+msgstr ""
+
+#: views/cp/profile.php:174
+msgid "Please define your industry "
+msgstr ""
+
+#: views/cp/profile.php:175
+msgid "Please give a name "
+msgstr ""
+
+#: views/cp/profile.php:176
+msgid "Please provide a surname "
+msgstr ""
+
+#: views/cp/profile.php:177
+msgid "Please enter a valid email address "
+msgstr ""
+
+#: views/cp/profile.php:178
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: views/cp/profile.php:179
+#: views/cp/profile.php:180
+msgid "Please enter a valid phone "
+msgstr ""
+
+#: views/cp/profile.php:181
+msgid "Please provide an address "
+msgstr ""
+
+#: views/cp/profile.php:182
+msgid "Please enter a city  "
+msgstr ""
+
+#: views/cp/profile.php:183
+msgid "Please select a country "
+msgstr ""
+
+#: views/cp/profile.php:184
+msgid "Please give a postcode please"
+msgstr ""
+
+#: views/cp/profile.php:185
+msgid "Please enter a user name please give"
+msgstr ""
+
+#: views/cp/profile.php:186
+msgid "Please enter a passworde"
+msgstr ""
+
+#: views/cp/profile.php:187
+msgid "Geef een Fotograaf in"
+msgstr ""
+
+#: views/cp/profile.php:188
+msgid "Selecteer een Webdesigner"
+msgstr ""
+
+#: views/cp/settings.php:91
+#: views/cp/settings.php:103
+msgid "region"
+msgstr ""
+
+#: views/cp/settings.php:115
+msgid "settings"
+msgstr ""
+
+#: views/cp/settings.php:119
+msgid "General Settings"
+msgstr ""
+
+#: views/cp/settings.php:129
+msgid "Email Address"
+msgstr ""
+
+#: views/cp/settings.php:131
+msgid "Enter your email address you want to use to communicate with your customers"
+msgstr ""
+
+#: views/cp/settings.php:134
+msgid "hide INTRO as first page?"
+msgstr ""
+
+#: views/cp/settings.php:136
+msgid "Check this checkbox if you just want to show orders as the first page not intro"
+msgstr ""
+
+#: views/cp/settings.php:139
+msgid "Shop Put OFFLINE?"
+msgstr ""
+
+#: views/cp/settings.php:141
+msgid "Check this checkbox if you just want to close the shop. The following text is then displayed on the website and customers can not make orders (eg on leave)"
+msgstr ""
+
+#: views/cp/settings.php:144
+msgid "Offline"
+msgstr ""
+
+#: views/cp/settings.php:150
+msgid "Webshop visible"
+msgstr ""
+
+#: views/cp/settings.php:155
+msgid "for all"
+msgstr ""
+
+#: views/cp/settings.php:159
+msgid "Only clients I work with"
+msgstr ""
+
+#: views/cp/settings.php:159
+msgid "If you have activated this option to your existing or new customers this password by email. Please find below a posting that one sees"
+msgstr ""
+
+#: views/cp/settings.php:177
+msgid "show message frontend"
+msgstr ""
+
+#: views/cp/settings.php:201
+msgid "pickup services"
+msgstr ""
+
+#: views/cp/settings.php:206
+msgid "delivery services"
+msgstr ""
+
+#: views/cp/settings.php:213
+msgid " category wise Pick/Delivery"
+msgstr ""
+
+#: views/cp/settings.php:215
+msgid "This function only if you check the customer an option for a particular product to pick up or deliver. This feature only when you turn in categories one or more categories of service both is selected (only works if you have checked COLLECTION AND DELIVERY (!)."
+msgstr ""
+
+#: views/cp/settings.php:218
+msgid "Disable Price"
+msgstr ""
+
+#: views/cp/settings.php:220
+msgid "If you want to hide all the rates on the online store can set it here."
+msgstr ""
+
+#: views/cp/settings.php:233
+#: views/cp/settings.php:234
+msgid "Please enter a valid e-mail address please give"
+msgstr ""
+
+#: views/cp/settings.php:235
+msgid "Please select a default language"
+msgstr ""
+
+#: views/cp/settings.php:242
+msgid "Please enter a password"
+msgstr ""
+
+#: views/cp/settings.php:249
+msgid "Please enter a message to give to your customers"
+msgstr ""
+
+#: views/cp/settings.php:264
+msgid "Configure groups"
+msgstr ""
+
+#: views/cp/settings.php:324
+msgid "Pickup settings"
+msgstr ""
+
+#: views/cp/settings.php:334
+msgid " Order Settings"
+msgstr ""
+
+#: views/cp/settings.php:336
+msgid "Allow Orders for same day"
+msgstr ""
+
+#: views/cp/settings.php:343
+msgid "minimum time between ordering and collecting"
+msgstr ""
+
+#: views/cp/settings.php:346
+#: views/cp/settings.php:842
+msgid "00 : 30"
+msgstr ""
+
+#: views/cp/settings.php:347
+#: views/cp/settings.php:843
+msgid "01 : 00"
+msgstr ""
+
+#: views/cp/settings.php:348
+#: views/cp/settings.php:844
+msgid "01 : 30"
+msgstr ""
+
+#: views/cp/settings.php:349
+#: views/cp/settings.php:845
+msgid "02 : 00"
+msgstr ""
+
+#: views/cp/settings.php:350
+#: views/cp/settings.php:846
+msgid "02 : 30"
+msgstr ""
+
+#: views/cp/settings.php:351
+#: views/cp/settings.php:847
+msgid "03 : 00"
+msgstr ""
+
+#: views/cp/settings.php:352
+#: views/cp/settings.php:848
+msgid "03 : 30"
+msgstr ""
+
+#: views/cp/settings.php:353
+#: views/cp/settings.php:849
+msgid "04 : 00"
+msgstr ""
+
+#: views/cp/settings.php:354
+#: views/cp/settings.php:850
+msgid "04 : 30"
+msgstr ""
+
+#: views/cp/settings.php:355
+#: views/cp/settings.php:851
+msgid "05 : 00"
+msgstr ""
+
+#: views/cp/settings.php:356
+#: views/cp/settings.php:852
+msgid "05 : 30"
+msgstr ""
+
+#: views/cp/settings.php:368
+msgid "If the customer orders before"
+msgstr ""
+
+#: views/cp/settings.php:371
+#: views/cp/settings.php:439
+#: views/cp/settings.php:479
+#: views/cp/settings.php:548
+#: views/cp/settings.php:592
+#: views/cp/settings.php:633
+#: views/cp/settings.php:674
+#: views/cp/settings.php:867
+#: views/cp/settings.php:935
+#: views/cp/settings.php:975
+#: views/cp/settings.php:1044
+#: views/cp/settings.php:1088
+#: views/cp/settings.php:1129
+#: views/cp/settings.php:1170
+#: views/cp/settings.php:1510
+#: views/cp/settings.php:1554
+#: views/cp/settings.php:1595
+#: views/cp/settings.php:1636
+msgid "06 : 00"
+msgstr ""
+
+#: views/cp/settings.php:372
+#: views/cp/settings.php:440
+#: views/cp/settings.php:480
+#: views/cp/settings.php:549
+#: views/cp/settings.php:593
+#: views/cp/settings.php:634
+#: views/cp/settings.php:675
+#: views/cp/settings.php:868
+#: views/cp/settings.php:936
+#: views/cp/settings.php:976
+#: views/cp/settings.php:1045
+#: views/cp/settings.php:1089
+#: views/cp/settings.php:1130
+#: views/cp/settings.php:1171
+#: views/cp/settings.php:1511
+#: views/cp/settings.php:1555
+#: views/cp/settings.php:1596
+#: views/cp/settings.php:1637
+msgid "06 : 30"
+msgstr ""
+
+#: views/cp/settings.php:373
+#: views/cp/settings.php:441
+#: views/cp/settings.php:481
+#: views/cp/settings.php:550
+#: views/cp/settings.php:594
+#: views/cp/settings.php:635
+#: views/cp/settings.php:676
+#: views/cp/settings.php:869
+#: views/cp/settings.php:937
+#: views/cp/settings.php:977
+#: views/cp/settings.php:1046
+#: views/cp/settings.php:1090
+#: views/cp/settings.php:1131
+#: views/cp/settings.php:1172
+#: views/cp/settings.php:1512
+#: views/cp/settings.php:1556
+#: views/cp/settings.php:1597
+#: views/cp/settings.php:1638
+msgid "07 : 00"
+msgstr ""
+
+#: views/cp/settings.php:374
+#: views/cp/settings.php:442
+#: views/cp/settings.php:482
+#: views/cp/settings.php:551
+#: views/cp/settings.php:595
+#: views/cp/settings.php:636
+#: views/cp/settings.php:677
+#: views/cp/settings.php:870
+#: views/cp/settings.php:938
+#: views/cp/settings.php:978
+#: views/cp/settings.php:1047
+#: views/cp/settings.php:1091
+#: views/cp/settings.php:1132
+#: views/cp/settings.php:1173
+#: views/cp/settings.php:1513
+#: views/cp/settings.php:1557
+#: views/cp/settings.php:1598
+#: views/cp/settings.php:1639
+msgid "07 : 30"
+msgstr ""
+
+#: views/cp/settings.php:375
+#: views/cp/settings.php:443
+#: views/cp/settings.php:483
+#: views/cp/settings.php:552
+#: views/cp/settings.php:596
+#: views/cp/settings.php:637
+#: views/cp/settings.php:678
+#: views/cp/settings.php:871
+#: views/cp/settings.php:939
+#: views/cp/settings.php:979
+#: views/cp/settings.php:1048
+#: views/cp/settings.php:1092
+#: views/cp/settings.php:1133
+#: views/cp/settings.php:1174
+#: views/cp/settings.php:1514
+#: views/cp/settings.php:1558
+#: views/cp/settings.php:1599
+#: views/cp/settings.php:1640
+msgid "08 : 00"
+msgstr ""
+
+#: views/cp/settings.php:376
+#: views/cp/settings.php:444
+#: views/cp/settings.php:484
+#: views/cp/settings.php:553
+#: views/cp/settings.php:597
+#: views/cp/settings.php:638
+#: views/cp/settings.php:679
+#: views/cp/settings.php:872
+#: views/cp/settings.php:940
+#: views/cp/settings.php:980
+#: views/cp/settings.php:1049
+#: views/cp/settings.php:1093
+#: views/cp/settings.php:1134
+#: views/cp/settings.php:1175
+#: views/cp/settings.php:1515
+#: views/cp/settings.php:1559
+#: views/cp/settings.php:1600
+#: views/cp/settings.php:1641
+msgid "08 : 30"
+msgstr ""
+
+#: views/cp/settings.php:377
+#: views/cp/settings.php:445
+#: views/cp/settings.php:485
+#: views/cp/settings.php:554
+#: views/cp/settings.php:598
+#: views/cp/settings.php:639
+#: views/cp/settings.php:680
+#: views/cp/settings.php:873
+#: views/cp/settings.php:941
+#: views/cp/settings.php:981
+#: views/cp/settings.php:1050
+#: views/cp/settings.php:1094
+#: views/cp/settings.php:1135
+#: views/cp/settings.php:1176
+#: views/cp/settings.php:1516
+#: views/cp/settings.php:1560
+#: views/cp/settings.php:1601
+#: views/cp/settings.php:1642
+msgid "09 : 00"
+msgstr ""
+
+#: views/cp/settings.php:378
+#: views/cp/settings.php:446
+#: views/cp/settings.php:486
+#: views/cp/settings.php:555
+#: views/cp/settings.php:599
+#: views/cp/settings.php:640
+#: views/cp/settings.php:681
+#: views/cp/settings.php:874
+#: views/cp/settings.php:942
+#: views/cp/settings.php:982
+#: views/cp/settings.php:1051
+#: views/cp/settings.php:1095
+#: views/cp/settings.php:1136
+#: views/cp/settings.php:1177
+#: views/cp/settings.php:1517
+#: views/cp/settings.php:1561
+#: views/cp/settings.php:1602
+#: views/cp/settings.php:1643
+msgid "09 : 30"
+msgstr ""
+
+#: views/cp/settings.php:379
+#: views/cp/settings.php:447
+#: views/cp/settings.php:487
+#: views/cp/settings.php:556
+#: views/cp/settings.php:600
+#: views/cp/settings.php:641
+#: views/cp/settings.php:682
+#: views/cp/settings.php:875
+#: views/cp/settings.php:943
+#: views/cp/settings.php:983
+#: views/cp/settings.php:1052
+#: views/cp/settings.php:1096
+#: views/cp/settings.php:1137
+#: views/cp/settings.php:1178
+#: views/cp/settings.php:1518
+#: views/cp/settings.php:1562
+#: views/cp/settings.php:1603
+#: views/cp/settings.php:1644
+msgid "10 : 00"
+msgstr ""
+
+#: views/cp/settings.php:380
+#: views/cp/settings.php:448
+#: views/cp/settings.php:488
+#: views/cp/settings.php:557
+#: views/cp/settings.php:601
+#: views/cp/settings.php:642
+#: views/cp/settings.php:683
+#: views/cp/settings.php:876
+#: views/cp/settings.php:944
+#: views/cp/settings.php:984
+#: views/cp/settings.php:1053
+#: views/cp/settings.php:1097
+#: views/cp/settings.php:1138
+#: views/cp/settings.php:1179
+#: views/cp/settings.php:1519
+#: views/cp/settings.php:1563
+#: views/cp/settings.php:1604
+#: views/cp/settings.php:1645
+msgid "10 : 30"
+msgstr ""
+
+#: views/cp/settings.php:381
+#: views/cp/settings.php:449
+#: views/cp/settings.php:489
+#: views/cp/settings.php:558
+#: views/cp/settings.php:602
+#: views/cp/settings.php:643
+#: views/cp/settings.php:684
+#: views/cp/settings.php:877
+#: views/cp/settings.php:945
+#: views/cp/settings.php:985
+#: views/cp/settings.php:1054
+#: views/cp/settings.php:1098
+#: views/cp/settings.php:1139
+#: views/cp/settings.php:1180
+#: views/cp/settings.php:1520
+#: views/cp/settings.php:1564
+#: views/cp/settings.php:1605
+#: views/cp/settings.php:1646
+msgid "11 : 00"
+msgstr ""
+
+#: views/cp/settings.php:382
+#: views/cp/settings.php:450
+#: views/cp/settings.php:490
+#: views/cp/settings.php:559
+#: views/cp/settings.php:603
+#: views/cp/settings.php:644
+#: views/cp/settings.php:685
+#: views/cp/settings.php:878
+#: views/cp/settings.php:946
+#: views/cp/settings.php:986
+#: views/cp/settings.php:1055
+#: views/cp/settings.php:1099
+#: views/cp/settings.php:1140
+#: views/cp/settings.php:1181
+#: views/cp/settings.php:1521
+#: views/cp/settings.php:1565
+#: views/cp/settings.php:1606
+#: views/cp/settings.php:1647
+msgid "11 : 30"
+msgstr ""
+
+#: views/cp/settings.php:383
+#: views/cp/settings.php:451
+#: views/cp/settings.php:491
+#: views/cp/settings.php:560
+#: views/cp/settings.php:604
+#: views/cp/settings.php:645
+#: views/cp/settings.php:686
+#: views/cp/settings.php:879
+#: views/cp/settings.php:947
+#: views/cp/settings.php:987
+#: views/cp/settings.php:1056
+#: views/cp/settings.php:1100
+#: views/cp/settings.php:1141
+#: views/cp/settings.php:1182
+#: views/cp/settings.php:1522
+#: views/cp/settings.php:1566
+#: views/cp/settings.php:1607
+#: views/cp/settings.php:1648
+msgid "12 : 00"
+msgstr ""
+
+#: views/cp/settings.php:384
+#: views/cp/settings.php:452
+#: views/cp/settings.php:492
+#: views/cp/settings.php:561
+#: views/cp/settings.php:605
+#: views/cp/settings.php:646
+#: views/cp/settings.php:687
+#: views/cp/settings.php:880
+#: views/cp/settings.php:948
+#: views/cp/settings.php:988
+#: views/cp/settings.php:1057
+#: views/cp/settings.php:1101
+#: views/cp/settings.php:1142
+#: views/cp/settings.php:1183
+#: views/cp/settings.php:1523
+#: views/cp/settings.php:1567
+#: views/cp/settings.php:1608
+#: views/cp/settings.php:1649
+msgid "12 : 30"
+msgstr ""
+
+#: views/cp/settings.php:385
+#: views/cp/settings.php:453
+#: views/cp/settings.php:493
+#: views/cp/settings.php:562
+#: views/cp/settings.php:606
+#: views/cp/settings.php:647
+#: views/cp/settings.php:688
+#: views/cp/settings.php:881
+#: views/cp/settings.php:949
+#: views/cp/settings.php:989
+#: views/cp/settings.php:1058
+#: views/cp/settings.php:1102
+#: views/cp/settings.php:1143
+#: views/cp/settings.php:1184
+#: views/cp/settings.php:1524
+#: views/cp/settings.php:1568
+#: views/cp/settings.php:1609
+#: views/cp/settings.php:1650
+msgid "13 : 00"
+msgstr ""
+
+#: views/cp/settings.php:386
+#: views/cp/settings.php:454
+#: views/cp/settings.php:494
+#: views/cp/settings.php:563
+#: views/cp/settings.php:607
+#: views/cp/settings.php:648
+#: views/cp/settings.php:689
+#: views/cp/settings.php:882
+#: views/cp/settings.php:950
+#: views/cp/settings.php:990
+#: views/cp/settings.php:1059
+#: views/cp/settings.php:1103
+#: views/cp/settings.php:1144
+#: views/cp/settings.php:1185
+#: views/cp/settings.php:1525
+#: views/cp/settings.php:1569
+#: views/cp/settings.php:1610
+#: views/cp/settings.php:1651
+msgid "13 : 30"
+msgstr ""
+
+#: views/cp/settings.php:387
+#: views/cp/settings.php:455
+#: views/cp/settings.php:495
+#: views/cp/settings.php:564
+#: views/cp/settings.php:608
+#: views/cp/settings.php:649
+#: views/cp/settings.php:690
+#: views/cp/settings.php:883
+#: views/cp/settings.php:951
+#: views/cp/settings.php:991
+#: views/cp/settings.php:1060
+#: views/cp/settings.php:1104
+#: views/cp/settings.php:1145
+#: views/cp/settings.php:1186
+#: views/cp/settings.php:1526
+#: views/cp/settings.php:1570
+#: views/cp/settings.php:1611
+#: views/cp/settings.php:1652
+msgid "14 : 00"
+msgstr ""
+
+#: views/cp/settings.php:388
+#: views/cp/settings.php:456
+#: views/cp/settings.php:496
+#: views/cp/settings.php:565
+#: views/cp/settings.php:609
+#: views/cp/settings.php:650
+#: views/cp/settings.php:691
+#: views/cp/settings.php:884
+#: views/cp/settings.php:952
+#: views/cp/settings.php:992
+#: views/cp/settings.php:1061
+#: views/cp/settings.php:1105
+#: views/cp/settings.php:1146
+#: views/cp/settings.php:1187
+#: views/cp/settings.php:1527
+#: views/cp/settings.php:1571
+#: views/cp/settings.php:1612
+#: views/cp/settings.php:1653
+msgid "14 : 30"
+msgstr ""
+
+#: views/cp/settings.php:389
+#: views/cp/settings.php:457
+#: views/cp/settings.php:497
+#: views/cp/settings.php:566
+#: views/cp/settings.php:610
+#: views/cp/settings.php:651
+#: views/cp/settings.php:692
+#: views/cp/settings.php:885
+#: views/cp/settings.php:953
+#: views/cp/settings.php:993
+#: views/cp/settings.php:1062
+#: views/cp/settings.php:1106
+#: views/cp/settings.php:1147
+#: views/cp/settings.php:1188
+#: views/cp/settings.php:1528
+#: views/cp/settings.php:1572
+#: views/cp/settings.php:1613
+#: views/cp/settings.php:1654
+msgid "15 : 00"
+msgstr ""
+
+#: views/cp/settings.php:390
+#: views/cp/settings.php:458
+#: views/cp/settings.php:498
+#: views/cp/settings.php:567
+#: views/cp/settings.php:611
+#: views/cp/settings.php:652
+#: views/cp/settings.php:693
+#: views/cp/settings.php:886
+#: views/cp/settings.php:954
+#: views/cp/settings.php:994
+#: views/cp/settings.php:1063
+#: views/cp/settings.php:1107
+#: views/cp/settings.php:1148
+#: views/cp/settings.php:1189
+#: views/cp/settings.php:1529
+#: views/cp/settings.php:1573
+#: views/cp/settings.php:1614
+#: views/cp/settings.php:1655
+msgid "15 : 30"
+msgstr ""
+
+#: views/cp/settings.php:391
+#: views/cp/settings.php:459
+#: views/cp/settings.php:499
+#: views/cp/settings.php:568
+#: views/cp/settings.php:612
+#: views/cp/settings.php:653
+#: views/cp/settings.php:694
+#: views/cp/settings.php:887
+#: views/cp/settings.php:955
+#: views/cp/settings.php:995
+#: views/cp/settings.php:1064
+#: views/cp/settings.php:1108
+#: views/cp/settings.php:1149
+#: views/cp/settings.php:1190
+#: views/cp/settings.php:1530
+#: views/cp/settings.php:1574
+#: views/cp/settings.php:1615
+#: views/cp/settings.php:1656
+msgid "16 : 00"
+msgstr ""
+
+#: views/cp/settings.php:392
+#: views/cp/settings.php:460
+#: views/cp/settings.php:500
+#: views/cp/settings.php:569
+#: views/cp/settings.php:613
+#: views/cp/settings.php:654
+#: views/cp/settings.php:695
+#: views/cp/settings.php:888
+#: views/cp/settings.php:956
+#: views/cp/settings.php:996
+#: views/cp/settings.php:1065
+#: views/cp/settings.php:1109
+#: views/cp/settings.php:1150
+#: views/cp/settings.php:1191
+#: views/cp/settings.php:1531
+#: views/cp/settings.php:1575
+#: views/cp/settings.php:1616
+#: views/cp/settings.php:1657
+msgid "16 : 30"
+msgstr ""
+
+#: views/cp/settings.php:393
+#: views/cp/settings.php:461
+#: views/cp/settings.php:501
+#: views/cp/settings.php:570
+#: views/cp/settings.php:614
+#: views/cp/settings.php:655
+#: views/cp/settings.php:696
+#: views/cp/settings.php:889
+#: views/cp/settings.php:957
+#: views/cp/settings.php:997
+#: views/cp/settings.php:1066
+#: views/cp/settings.php:1110
+#: views/cp/settings.php:1151
+#: views/cp/settings.php:1192
+#: views/cp/settings.php:1532
+#: views/cp/settings.php:1576
+#: views/cp/settings.php:1617
+#: views/cp/settings.php:1658
+msgid "17 : 00"
+msgstr ""
+
+#: views/cp/settings.php:394
+#: views/cp/settings.php:462
+#: views/cp/settings.php:502
+#: views/cp/settings.php:571
+#: views/cp/settings.php:615
+#: views/cp/settings.php:656
+#: views/cp/settings.php:697
+#: views/cp/settings.php:890
+#: views/cp/settings.php:958
+#: views/cp/settings.php:998
+#: views/cp/settings.php:1067
+#: views/cp/settings.php:1111
+#: views/cp/settings.php:1152
+#: views/cp/settings.php:1193
+#: views/cp/settings.php:1533
+#: views/cp/settings.php:1577
+#: views/cp/settings.php:1618
+#: views/cp/settings.php:1659
+msgid "17 : 30"
+msgstr ""
+
+#: views/cp/settings.php:395
+#: views/cp/settings.php:463
+#: views/cp/settings.php:503
+#: views/cp/settings.php:572
+#: views/cp/settings.php:616
+#: views/cp/settings.php:657
+#: views/cp/settings.php:698
+#: views/cp/settings.php:891
+#: views/cp/settings.php:959
+#: views/cp/settings.php:999
+#: views/cp/settings.php:1068
+#: views/cp/settings.php:1112
+#: views/cp/settings.php:1153
+#: views/cp/settings.php:1194
+#: views/cp/settings.php:1534
+#: views/cp/settings.php:1578
+#: views/cp/settings.php:1619
+#: views/cp/settings.php:1660
+msgid "18 : 00"
+msgstr ""
+
+#: views/cp/settings.php:396
+#: views/cp/settings.php:464
+#: views/cp/settings.php:504
+#: views/cp/settings.php:573
+#: views/cp/settings.php:617
+#: views/cp/settings.php:658
+#: views/cp/settings.php:699
+#: views/cp/settings.php:892
+#: views/cp/settings.php:960
+#: views/cp/settings.php:1000
+#: views/cp/settings.php:1069
+#: views/cp/settings.php:1113
+#: views/cp/settings.php:1154
+#: views/cp/settings.php:1195
+#: views/cp/settings.php:1535
+#: views/cp/settings.php:1579
+#: views/cp/settings.php:1620
+#: views/cp/settings.php:1661
+msgid "18 : 30"
+msgstr ""
+
+#: views/cp/settings.php:397
+#: views/cp/settings.php:465
+#: views/cp/settings.php:505
+#: views/cp/settings.php:574
+#: views/cp/settings.php:618
+#: views/cp/settings.php:659
+#: views/cp/settings.php:700
+#: views/cp/settings.php:893
+#: views/cp/settings.php:961
+#: views/cp/settings.php:1001
+#: views/cp/settings.php:1070
+#: views/cp/settings.php:1114
+#: views/cp/settings.php:1155
+#: views/cp/settings.php:1196
+#: views/cp/settings.php:1536
+#: views/cp/settings.php:1580
+#: views/cp/settings.php:1621
+#: views/cp/settings.php:1662
+msgid "19 : 00"
+msgstr ""
+
+#: views/cp/settings.php:398
+#: views/cp/settings.php:466
+#: views/cp/settings.php:506
+#: views/cp/settings.php:575
+#: views/cp/settings.php:619
+#: views/cp/settings.php:660
+#: views/cp/settings.php:701
+#: views/cp/settings.php:894
+#: views/cp/settings.php:962
+#: views/cp/settings.php:1002
+#: views/cp/settings.php:1071
+#: views/cp/settings.php:1115
+#: views/cp/settings.php:1156
+#: views/cp/settings.php:1197
+#: views/cp/settings.php:1537
+#: views/cp/settings.php:1581
+#: views/cp/settings.php:1622
+#: views/cp/settings.php:1663
+msgid "19 : 30"
+msgstr ""
+
+#: views/cp/settings.php:399
+#: views/cp/settings.php:467
+#: views/cp/settings.php:507
+#: views/cp/settings.php:576
+#: views/cp/settings.php:620
+#: views/cp/settings.php:661
+#: views/cp/settings.php:702
+#: views/cp/settings.php:895
+#: views/cp/settings.php:963
+#: views/cp/settings.php:1003
+#: views/cp/settings.php:1072
+#: views/cp/settings.php:1116
+#: views/cp/settings.php:1157
+#: views/cp/settings.php:1198
+#: views/cp/settings.php:1538
+#: views/cp/settings.php:1582
+#: views/cp/settings.php:1623
+#: views/cp/settings.php:1664
+msgid "20 : 00"
+msgstr ""
+
+#: views/cp/settings.php:400
+#: views/cp/settings.php:468
+#: views/cp/settings.php:508
+#: views/cp/settings.php:577
+#: views/cp/settings.php:621
+#: views/cp/settings.php:662
+#: views/cp/settings.php:703
+#: views/cp/settings.php:896
+#: views/cp/settings.php:964
+#: views/cp/settings.php:1004
+#: views/cp/settings.php:1073
+#: views/cp/settings.php:1117
+#: views/cp/settings.php:1158
+#: views/cp/settings.php:1199
+#: views/cp/settings.php:1539
+#: views/cp/settings.php:1583
+#: views/cp/settings.php:1624
+#: views/cp/settings.php:1665
+msgid "20 : 30"
+msgstr ""
+
+#: views/cp/settings.php:401
+#: views/cp/settings.php:469
+#: views/cp/settings.php:509
+#: views/cp/settings.php:578
+#: views/cp/settings.php:622
+#: views/cp/settings.php:663
+#: views/cp/settings.php:704
+#: views/cp/settings.php:897
+#: views/cp/settings.php:965
+#: views/cp/settings.php:1005
+#: views/cp/settings.php:1074
+#: views/cp/settings.php:1118
+#: views/cp/settings.php:1159
+#: views/cp/settings.php:1200
+#: views/cp/settings.php:1540
+#: views/cp/settings.php:1584
+#: views/cp/settings.php:1625
+#: views/cp/settings.php:1666
+msgid "21 : 00"
+msgstr ""
+
+#: views/cp/settings.php:402
+#: views/cp/settings.php:470
+#: views/cp/settings.php:510
+#: views/cp/settings.php:579
+#: views/cp/settings.php:623
+#: views/cp/settings.php:664
+#: views/cp/settings.php:705
+#: views/cp/settings.php:898
+#: views/cp/settings.php:966
+#: views/cp/settings.php:1006
+#: views/cp/settings.php:1075
+#: views/cp/settings.php:1119
+#: views/cp/settings.php:1160
+#: views/cp/settings.php:1201
+#: views/cp/settings.php:1541
+#: views/cp/settings.php:1585
+#: views/cp/settings.php:1626
+#: views/cp/settings.php:1667
+msgid "21 : 30"
+msgstr ""
+
+#: views/cp/settings.php:403
+#: views/cp/settings.php:471
+#: views/cp/settings.php:511
+#: views/cp/settings.php:580
+#: views/cp/settings.php:624
+#: views/cp/settings.php:665
+#: views/cp/settings.php:706
+#: views/cp/settings.php:899
+#: views/cp/settings.php:967
+#: views/cp/settings.php:1007
+#: views/cp/settings.php:1076
+#: views/cp/settings.php:1120
+#: views/cp/settings.php:1161
+#: views/cp/settings.php:1202
+#: views/cp/settings.php:1542
+#: views/cp/settings.php:1586
+#: views/cp/settings.php:1627
+#: views/cp/settings.php:1668
+msgid "22 : 00"
+msgstr ""
+
+#: views/cp/settings.php:404
+#: views/cp/settings.php:472
+#: views/cp/settings.php:512
+#: views/cp/settings.php:581
+#: views/cp/settings.php:625
+#: views/cp/settings.php:666
+#: views/cp/settings.php:707
+#: views/cp/settings.php:900
+#: views/cp/settings.php:968
+#: views/cp/settings.php:1008
+#: views/cp/settings.php:1077
+#: views/cp/settings.php:1121
+#: views/cp/settings.php:1162
+#: views/cp/settings.php:1203
+#: views/cp/settings.php:1543
+#: views/cp/settings.php:1587
+#: views/cp/settings.php:1628
+#: views/cp/settings.php:1669
+msgid "22 : 30"
+msgstr ""
+
+#: views/cp/settings.php:405
+#: views/cp/settings.php:473
+#: views/cp/settings.php:513
+#: views/cp/settings.php:582
+#: views/cp/settings.php:626
+#: views/cp/settings.php:667
+#: views/cp/settings.php:708
+#: views/cp/settings.php:901
+#: views/cp/settings.php:969
+#: views/cp/settings.php:1009
+#: views/cp/settings.php:1078
+#: views/cp/settings.php:1122
+#: views/cp/settings.php:1163
+#: views/cp/settings.php:1204
+#: views/cp/settings.php:1544
+#: views/cp/settings.php:1588
+#: views/cp/settings.php:1629
+#: views/cp/settings.php:1670
+msgid "23 : 00"
+msgstr ""
+
+#: views/cp/settings.php:406
+#: views/cp/settings.php:474
+#: views/cp/settings.php:514
+#: views/cp/settings.php:583
+#: views/cp/settings.php:627
+#: views/cp/settings.php:668
+#: views/cp/settings.php:709
+#: views/cp/settings.php:902
+#: views/cp/settings.php:970
+#: views/cp/settings.php:1010
+#: views/cp/settings.php:1079
+#: views/cp/settings.php:1123
+#: views/cp/settings.php:1164
+#: views/cp/settings.php:1205
+#: views/cp/settings.php:1545
+#: views/cp/settings.php:1589
+#: views/cp/settings.php:1630
+#: views/cp/settings.php:1671
+msgid "23 : 30"
+msgstr ""
+
+#: views/cp/settings.php:408
+msgid "hours, he can pick the products after"
+msgstr ""
+
+#: views/cp/settings.php:411
+#: views/cp/settings.php:907
+msgid "Next day"
+msgstr ""
+
+#: views/cp/settings.php:412
+#: views/cp/settings.php:908
+msgid "2 Day"
+msgstr ""
+
+#: views/cp/settings.php:413
+#: views/cp/settings.php:909
+msgid "3 days"
+msgstr ""
+
+#: views/cp/settings.php:414
+#: views/cp/settings.php:910
+msgid "4 Days"
+msgstr ""
+
+#: views/cp/settings.php:415
+#: views/cp/settings.php:911
+msgid "5 Days"
+msgstr ""
+
+#: views/cp/settings.php:416
+#: views/cp/settings.php:912
+msgid "6 Days"
+msgstr ""
+
+#: views/cp/settings.php:417
+#: views/cp/settings.php:913
+msgid "7 Days"
+msgstr ""
+
+#: views/cp/settings.php:418
+#: views/cp/settings.php:914
+msgid "8 Days"
+msgstr ""
+
+#: views/cp/settings.php:419
+#: views/cp/settings.php:915
+msgid "9 Days"
+msgstr ""
+
+#: views/cp/settings.php:420
+#: views/cp/settings.php:916
+msgid "10 Days"
+msgstr ""
+
+#: views/cp/settings.php:421
+#: views/cp/settings.php:917
+msgid "11 Days"
+msgstr ""
+
+#: views/cp/settings.php:422
+#: views/cp/settings.php:918
+msgid "12 Days"
+msgstr ""
+
+#: views/cp/settings.php:423
+#: views/cp/settings.php:919
+msgid "13 Days"
+msgstr ""
+
+#: views/cp/settings.php:424
+#: views/cp/settings.php:920
+msgid "14 Days"
+msgstr ""
+
+#: views/cp/settings.php:436
+msgid "Opening Hours"
+msgstr ""
+
+#: views/cp/settings.php:436
+msgid "ALL DAYS means FROM"
+msgstr ""
+
+#: views/cp/settings.php:476
+#: views/cp/settings.php:588
+#: views/cp/settings.php:670
+msgid "to"
+msgstr ""
+
+#: views/cp/settings.php:478
+msgid "-- Select--"
+msgstr ""
+
+#: views/cp/settings.php:522
+msgid "Pickup hours"
+msgstr ""
+
+#: views/cp/settings.php:545
+#: views/cp/settings.php:1041
+msgid "ALL DAY"
+msgstr ""
+
+#: views/cp/settings.php:546
+#: views/cp/settings.php:1042
+msgid "CLOSED"
+msgstr ""
+
+#: views/cp/settings.php:547
+#: views/cp/settings.php:591
+#: views/cp/settings.php:632
+#: views/cp/settings.php:673
+#: views/cp/settings.php:1043
+#: views/cp/settings.php:1087
+#: views/cp/settings.php:1128
+#: views/cp/settings.php:1169
+#: views/cp/settings.php:1509
+#: views/cp/settings.php:1553
+#: views/cp/settings.php:1594
+#: views/cp/settings.php:1635
+msgid "NONE"
+msgstr ""
+
+#: views/cp/settings.php:629
+#: views/cp/settings.php:1591
+msgid "and"
+msgstr ""
+
+#: views/cp/settings.php:672
+#: views/cp/settings.php:1040
+msgid " Select"
+msgstr ""
+
+#: views/cp/settings.php:733
+msgid "Select Start Time ALL DAY"
+msgstr ""
+
+#: views/cp/settings.php:734
+msgid "End Select All DAY"
+msgstr ""
+
+#: views/cp/settings.php:743
+msgid "Delivery Settings"
+msgstr ""
+
+#: views/cp/settings.php:753
+msgid "Manage your region"
+msgstr ""
+
+#: views/cp/settings.php:769
+#: views/cp/settings.php:811
+msgid "Edit"
+msgstr ""
+
+#: views/cp/settings.php:769
+msgid "Delete"
+msgstr ""
+
+#: views/cp/settings.php:788
+msgid "Management region details"
+msgstr ""
+
+#: views/cp/settings.php:796
+msgid "Postal code"
+msgstr ""
+
+#: views/cp/settings.php:798
+msgid " Time Range"
+msgstr ""
+
+#: views/cp/settings.php:811
+msgid "DELETE"
+msgstr ""
+
+#: views/cp/settings.php:816
+msgid "no area details avaliable"
+msgstr ""
+
+#: views/cp/settings.php:839
+msgid "Minimum time between ordering and delivery"
+msgstr ""
+
+#: views/cp/settings.php:864
+msgid "If the customer ordered for"
+msgstr ""
+
+#: views/cp/settings.php:904
+msgid "hours: the products can be supplied from"
+msgstr ""
+
+#: views/cp/settings.php:932
+msgid "Opening Hours:"
+msgstr ""
+
+#: views/cp/settings.php:932
+msgid "ALL DAY means FROM"
+msgstr ""
+
+#: views/cp/settings.php:972
+msgid "TO"
+msgstr ""
+
+#: views/cp/settings.php:1018
+msgid "Delivery Hours"
+msgstr ""
+
+#: views/cp/settings.php:1084
+#: views/cp/settings.php:1166
+#: views/cp/settings.php:1550
+#: views/cp/settings.php:1632
+msgid "To"
+msgstr ""
+
+#: views/cp/settings.php:1229
+msgid "Select ALL DAY Start Time"
+msgstr ""
+
+#: views/cp/settings.php:1230
+msgid "Select All DAY End Time"
+msgstr ""
+
+#: views/cp/settings.php:1238
+msgid "Mail-Messages"
+msgstr ""
+
+#: views/cp/settings.php:1249
+msgid "Email Subject"
+msgstr ""
+
+#: views/cp/settings.php:1254
+#: views/cp/settings.php:1278
+#: views/cp/settings.php:1303
+#: views/cp/settings.php:1330
+#: views/cp/settings.php:1357
+#: views/cp/settings.php:1392
+msgid "Sample Text"
+msgstr ""
+
+#: views/cp/settings.php:1257
+#: views/cp/settings.php:1281
+#: views/cp/settings.php:1306
+#: views/cp/settings.php:1360
+#: views/cp/settings.php:1395
+msgid "Dear Customer"
+msgstr ""
+
+#: views/cp/settings.php:1259
+msgid "Your Message"
+msgstr ""
+
+#: views/cp/settings.php:1263
+msgid "TIP"
+msgstr ""
+
+#: views/cp/settings.php:1272
+msgid "Order success MAIL"
+msgstr ""
+
+#: views/cp/settings.php:1272
+msgid "This is the first mail that the customer gets an order after he has done."
+msgstr ""
+
+#: views/cp/settings.php:1283
+msgid "We have successfully received your order. We will keep you informed when your order has been approved by us when your order is ready. So you can expect from us 2 emails so you are aware of the status of your order."
+msgstr ""
+
+#: views/cp/settings.php:1287
+#: views/cp/settings.php:1314
+msgid ""
+"TIP: Sincerely, your business name is already in the automated mail (please do not write down / repeat)\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: views/cp/settings.php:1297
+msgid "OK MAIL"
+msgstr ""
+
+#: views/cp/settings.php:1297
+msgid "If OK is clicked, the customer MAIL this mail. This tells the customer that you have read and approved the order"
+msgstr ""
+
+#: views/cp/settings.php:1308
+msgid "We have noted and approved your order."
+msgstr ""
+
+#: views/cp/settings.php:1310
+msgid "We give you a signal when the order is ready."
+msgstr ""
+
+#: views/cp/settings.php:1324
+msgid "HOLD MAIL"
+msgstr ""
+
+#: views/cp/settings.php:1324
+msgid "If you doubt the authenticity of the order or if anything is unclear please contact the customer through the order page on the name. If you click MAIL HOLD the customer receives this mail."
+msgstr ""
+
+#: views/cp/settings.php:1333
+msgid "Beste Klant"
+msgstr ""
+
+#: views/cp/settings.php:1335
+msgid "A vulnerability exists because of your order."
+msgstr ""
+
+#: views/cp/settings.php:1337
+msgid "We will own you call us to discuss the problem."
+msgstr ""
+
+#: views/cp/settings.php:1341
+#: views/cp/settings.php:1376
+#: views/cp/settings.php:1409
+msgid "TIP: Sincerely, your business name is already in the automated mail (please do not write down / repeat)"
+msgstr ""
+
+#: views/cp/settings.php:1350
+msgid "PICK Complete MAIL"
+msgstr ""
+
+#: views/cp/settings.php:1350
+msgid "This mail is sent to the customer when you have clicked on MAIL COMPLETE (after you are sure the order is ready or will be at the appointed time)."
+msgstr ""
+
+#: views/cp/settings.php:1363
+#: views/cp/settings.php:1397
+msgid "YOUR ORDER IS READY"
+msgstr ""
+
+#: views/cp/settings.php:1363
+#: views/cp/settings.php:1397
+msgid " And will be supplied at the agreed time."
+msgstr ""
+
+#: views/cp/settings.php:1367
+msgid "You can mail print and give to one of our staff at the till."
+msgstr ""
+
+#: views/cp/settings.php:1369
+msgid "s you know, you can go directly to our separate checkout your order, pick up (no waiting)!"
+msgstr ""
+
+#: views/cp/settings.php:1370
+#: views/cp/settings.php:1403
+msgid "Thank you for the trust and the next!"
+msgstr ""
+
+#: views/cp/settings.php:1372
+#: views/cp/settings.php:1405
+msgid "PS: If you have any comments or suggestions about the system, you can report this to info@onlinebestelsysteem.net"
+msgstr ""
+
+#: views/cp/settings.php:1385
+msgid "Complete MAIL DELIVERY"
+msgstr ""
+
+#: views/cp/settings.php:1385
+msgid "This mail is sent to the customer when you have clicked on MAIL COMPLETE (after you are sure the order at the appointed time will be delivered)."
+msgstr ""
+
+#: views/cp/settings.php:1399
+msgid "Please keep in mind that we play an internalisation of + / - 30 min"
+msgstr ""
+
+#: views/cp/settings.php:1401
+msgid "Like we had the amount of cash received from you (preferably this appropriate)."
+msgstr ""
+
+#: views/cp/settings.php:1444
+msgid "please Enter OK Mail message"
+msgstr ""
+
+#: views/cp/settings.php:1449
+msgid "please enter HOLD Mail message"
+msgstr ""
+
+#: views/cp/settings.php:1454
+msgid "please enter COMPLETE Mail message"
+msgstr ""
+
+#: views/cp/settings.php:1459
+msgid "please enter PICK Complete MAIL message"
+msgstr ""
+
+#: views/cp/settings.php:1464
+msgid "please enter Order Received  MAIL message"
+msgstr ""
+
+#: views/cp/settings.php:1482
+msgid "Holiday Settings"
+msgstr ""
+
+#: views/cp/settings.php:1491
+msgid "Webshop during holiday"
+msgstr ""
+
+#: views/cp/settings.php:1491
+msgid "Example, if you closed your customers will choose not to pick up orders during holidays. When in the calendar (right) one day like Christmas marks then this setting."
+msgstr ""
+
+#: views/cp/settings.php:1498
+msgid "Closed (no orders are accepted for that day)"
+msgstr ""
+
+#: views/cp/settings.php:1506
+msgid "OPEN"
+msgstr ""
+
+#: views/cp/settings.php:1693
+msgid "Please choose"
+msgstr ""
+
+#: views/cp/sidebar.php:168
+msgid "Links"
+msgstr ""
+
+#: views/cp/sidebar.php:172
+msgid "Changelog: Latest version"
+msgstr ""
+
+#: views/cp/sidebar.php:173
+msgid "QUESTION AND ANSWER"
+msgstr ""
+
+#: views/cp/sidebar.php:178
+msgid "Calendar"
+msgstr ""
+
+#: views/cp/sidebar.php:186
+msgid "Legend"
+msgstr ""
+
+#: views/cp/sidebar.php:192
+msgid "Current Date"
+msgstr ""
+
+#: views/cp/sidebar.php:196
+msgid "Pick Closed"
+msgstr ""
+
+#: views/cp/sidebar.php:200
+msgid "Delivery Closed"
+msgstr ""
+
+#: views/cp/sidebar.php:204
+msgid "Pickup and delivery closed"
+msgstr ""
+
+#: views/cp/sidebar.php:208
+msgid "Manually closed"
+msgstr ""
+
+#: views/cp/subcategories.php:5
+msgid "View Subcategories"
+msgstr ""
+
+#: views/cp/subcategories.php:11
+msgid "Error Occured"
+msgstr ""
+
+#: views/cp/subcategories.php:13
+msgid "Sub-category Order Updated Successfully"
+msgstr ""
+
+#: views/cp/subcategories.php:21
+msgid "Tooltip setting successfully."
+msgstr ""
+
+#: views/cp/subcategories.php:23
+msgid "Problem while saving the ToolTip setting."
+msgstr ""
+
+#: views/cp/subcategories.php:47
+msgid "Subcategories Data"
+msgstr ""
+
+#: views/cp/subcategories.php:57
+msgid "** You can choose in which order the subcategories to be displayed on the website. Number 1 is very high on the list."
+msgstr ""
+
+#: views/cp/subcategories.php:106
+msgid "Add Subcategory"
+msgstr ""
+
+#: views/cp/subcategories.php:173
+msgid "Subcategy list is empty"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:69
+msgid "UPDATE SUBCATEGORY"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:69
+msgid "ADD SUBCATEGORY"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:71
+msgid " Subcategory"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:71
+msgid "Update subcategories"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:71
+msgid "Add subcategories"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:73
+msgid "Error Occured:sub category already exist"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:104
+msgid "no category selected"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:109
+msgid "SUBCATEGORY NAME"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:113
+msgid "DESCRIPTION"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:126
+msgid "If you check this box, your customers will see this description when the mouse cursor over a subcategory link to (there is then a popup to appear)."
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:135
+msgid "If your clients have a subcategory clickable on this page a message at the top. This is a promotional text related to this subcategory. The message is below post."
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:154
+msgid "UPDATE"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:176
+msgid "Select A category"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:178
+msgid "Please give a name"
+msgstr ""
+
+#: views/cp/subcategories_addedit.php:215
+msgid "Please leave a message"
+msgstr ""
+
+#: views/cp/tabtest.php:18
+msgid "STARTER PACKAGE:"
+msgstr ""
+
+#: views/cp/tabtest.php:22
+msgid "PLUS STARTER PACKAGE:"
+msgstr ""
+
+#: views/cp/tabtest.php:26
+msgid "ALL-IN-ONE PACKAGE:"
+msgstr ""
+
+#: views/cp/tabtest.php:42
+msgid "STARTER PACKAGE (245.00 &euro; )"
+msgstr ""
+
+#: views/cp/tabtest.php:43
+msgid "STARTER PLUS PACKAGE (550.00 &euro; )"
+msgstr ""
+
+#: views/cp/tabtest.php:44
+msgid "ALL-IN-ONE PACKAGE (950.00 &euro; )"
+msgstr ""
+
+#: views/cp/tabtest.php:79
+msgid "STARTER PAKKET"
+msgstr ""
+
+#: views/cp/tabtest.php:82
+msgid "STARTER PLUS PAKKET"
+msgstr ""
+
+#: views/cp/tabtest.php:85
+msgid "ALL-IN-ONE PAKKET"
+msgstr ""
+
+#: views/cp/tabtest.php:92
+msgid ""
+"Save money by configuring the system yourself! With this package we <br>\n"
+"                 assume that the categories and products yourself inserted into the system <br>\n"
+"                 (including images, descriptions, rates, etc. ..)."
+msgstr ""
+
+#: views/cp/tabtest.php:111
+msgid "If you have little time and want a ready-made system, you can opt for this package."
+msgstr ""
+
+#: views/cp/tabtest.php:113
+msgid "This package contains the STARTER PACKAGE includes:"
+msgstr ""
+
+#: views/cp/tabtest.php:116
+msgid "System configuration according to your wishes (settings)"
+msgstr ""
+
+#: views/cp/tabtest.php:117
+msgid "All categories and products are created by us"
+msgstr ""
+
+#: views/cp/tabtest.php:117
+msgid "(max 100 - each 100 = &euro; 75)"
+msgstr ""
+
+#: views/cp/tabtest.php:118
+msgid "Photos are added to products if desired"
+msgstr ""
+
+#: views/cp/tabtest.php:127
+msgid "If you do not feel like taking pictures of all your products?"
+msgstr ""
+
+#: views/cp/tabtest.php:127
+msgid "NO Problem"
+msgstr ""
+
+#: views/cp/tabtest.php:131
+msgid "This package contains the STARTER PACK PLUS includes"
+msgstr ""
+
+#: views/cp/tabtest.php:134
+msgid "Spot taking pictures of all products"
+msgstr ""
+
+#: views/cp/tabtest.php:134
+msgid "(max 100 - each 100 = &euro; 75 extra)"
+msgstr ""
+
+#: views/cp/tabtest.php:135
+msgid "All the photo editing + optimize"
+msgstr ""
+
+#: views/cp/tabtest.php:136
+msgid "All photographs deploy the system"
+msgstr ""
+
+#: views/cp/tabtest.php:148
+msgid "Outside a radius of 20 km (Yellow) we charge a fee of &euro; 0.25 / km"
+msgstr ""
+
+#: views/cp/tabtest.php:148
+msgid "All prices exclude VAT"
+msgstr ""
+
+#: views/cp/version.php:7
+msgid "Changelog - Latest version"
+msgstr ""
+
+#: views/cp/version.php:9
+msgid "version"
+msgstr ""
+
