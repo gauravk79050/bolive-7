@@ -2118,17 +2118,17 @@ jQuery( document ).on( 'click', '.remove_fav_list', function($) {
                         </td>
                         </tr>
                 </form>
-                //For production api  start 
+                <!-- //For production api  start  -->
                 <tr class="enable_production_api">
                        <td height="30" class="wd_text" width="600"><?php echo _('Show Ids for production API'); ?></td>
                         <td>
                        <input type="checkbox" size="10" class="textbox" id="enable_production
-                       _api" name="enable_production_api" value="1" <?php (isset($production_api['api_enable']) && ($production_api['api_enable'] == 1)) ?print 'checked': '' ?>/>
+                       _api" name="enable_production_api" value="1" <?php (isset($labeler_settings[0]->api_enable) && ($labeler_settings[0]->api_enable == 1)) ?print 'checked': '' ?>/>
                       </td>
                       <td class="move_rit"><i><?php echo _('(Activate for those who will use production API)'); ?></i></td>
                       
                 </tr>
-                //For production api  end
+                <!-- //For production api  end -->
                     
             <tr>
               <td height="50" class="wd_text" colspan="3" style="text-align: center;">

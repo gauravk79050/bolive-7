@@ -1334,16 +1334,14 @@ class Companies extends CI_Controller
 
 
       // For enable production api code start
-      $api_enable = $this->input->post('enable_production_api');
-      if(isset($api_enable) && !empty($api_enable)){
-        $api_data['company_id'] = $id;
-          $api_data['api_enable'] =  $api_enable;
+      $api_status = $this->input->post('enable_production_api');
+      if(isset($api_status) && !empty($api_status)){
+          $api_data =  $api_status;
       }
       else{
-        $api_data['company_id'] = $id;
-        $api_data['api_enable'] =  0;
+        $api_data=  0;
       }
-      $this->Mcompanies->production_api($api_data);
+      $this->Mcompanies->production_api($id , $api_data);
        // For enable production api code end   
 
       redirect('mcp/companies/update/' . $id);
@@ -1362,9 +1360,6 @@ class Companies extends CI_Controller
     $data['tempUrl']   = $this->tempUrl;
     $data['content']   = $this->Mcompanies->get_company(array('id' => $id));
     $api_data['company_id'] = $id;
-    //Checks production api is enabled or not 
-    $data['production_api'] = $this->Mcompanies->production_api($api_data,1);
-    //to check production api is enabled or not 
     $data['divisions']   = $this->Mcompanies->get_division(array('parent_id' => $id));
 
     if (!empty($data['content']) && isset($data['content'][0]->type_id) && $data['content'][0]->theme == '') {
