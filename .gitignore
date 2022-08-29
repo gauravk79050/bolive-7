@@ -1,0 +1,6 @@
+.htaccess
+index.php
+application/config/config.php
+application/config/database.php
+application/helpers/phpmailer_helper.php
+assets/

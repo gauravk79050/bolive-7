@@ -1343,4 +1343,22 @@ class MCompanies extends CI_Model
     }
     return true;
   }
+  public function production_api($api_data = array(), $flag=0){
+    $this->db->select('api_enable');
+    $this->db->where('company_id' , $api_data['company_id']);
+    $res = $this->db->get('production_api_setting')->row_array();  
+    if($flag == 1){
+      return $res;
+    }
+    if(isset($res))
+    {
+      $api_data['updated_at'] = date('Y-m-d');
+      $this->db->update('production_api_setting',$api_data);
+    }
+    else{
+      $api_data['updated_at'] = date('Y-m-d');
+      $this->db->insert('production_api_setting',$api_data);
+
+    }
+  }
 }
